@@ -3,14 +3,14 @@
     "id": "cap1_intro",
     "title": "Introdução",
     "description": "Comandos básicos do p5.",
-    "thumbnail": "thumbs/cap1.png",
+    "thumbnail": "./thumbs/cap1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/v4MVDgbHj"
   },
   {
     "id": "cap2-1_for",
     "title": "Loop for 1",
     "description": "Desenhe uma linha de quadradinhos.",
-    "thumbnail": "",
+    "thumbnail": "./thumbs/cap2-1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/o0PR3OfXm"
   }
 ]
