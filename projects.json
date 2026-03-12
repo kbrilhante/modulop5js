@@ -198,5 +198,21 @@
     "thumbnail": "./thumbs/cap5d.gif",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/xHbhPjUMm",
     "chapter": 5
+  },
+  {
+    "id": "cap6_desenho1",
+    "title": "Cap 6 - Desenho na Tela (parte 1)",
+    "description": "Crie um aplicativo de desenho estilo paint. Vamos aplicar um pincel, uma borracha e limpar a tela.",
+    "thumbnail": "./thumbs/cap6.gif",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/00ON3aKj2",
+    "chapter": 6
+  },
+  {
+    "id": "cap7_",
+    "title": "Cap 7 - ",
+    "description": "",
+    "thumbnail": "",
+    "viewUrl": "",
+    "chapter": 7
   }
 ]
