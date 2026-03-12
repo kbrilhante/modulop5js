@@ -65,7 +65,7 @@
   },
   {
     "id": "cap3-2_jitter_constrain",
-    "title": "Cap 3 - Jitter com Constrain",
+    "title": "Cap 3 - Jitter com constrain",
     "description": "Crie uma bolinha que treme com movimentos aleatórios, mas agora ela fica restrita dentro dos limites da tela.",
     "thumbnail": "",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/XyJ8Ozlsh",
@@ -73,10 +73,130 @@
   },
   {
     "id": "cap3-3_movimento_linear",
-    "title": "Cap 3 - Movimento Linear",
-    "description": "Crie uma bolinha que se movimenta em linha reta e aparece do outro lado quando .",
+    "title": "Cap 3 - Movimento linear",
+    "description": "Crie uma bolinha que se movimenta em linha reta e aparece do outro lado quando sai da tela.",
     "thumbnail": "",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/CMUa2ooHo",
     "chapter": 3
+  },
+  {
+    "id": "cap3_desafio1",
+    "title": "Cap 3 - Desafio 1: Chuvisco",
+    "description": "Crie uma gota de chuva que cai do topo da tela e se desfaz ao tocar o chão.",
+    "thumbnail": "./thumbs/cap3d1.gif",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/F_sXKiOYw",
+    "chapter": 3
+  },
+  {
+    "id": "cap3-4_movimento_bounce",
+    "title": "Cap 3 - Movimento com bounce",
+    "description": "Crie uma bolinha que se movimenta em linha reta e rebate quando toca na borda da tela.",
+    "thumbnail": "",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/hH5j53oye",
+    "chapter": 3
+  },
+  {
+    "id": "cap3-5_movimento_random_vel",
+    "title": "Cap 3 - Movimento com velocidade aleatória",
+    "description": "Crie uma bolinha que se movimenta em linha reta e rebate quando toca na borda da tela. A sua velocidade e trajetória é aleatória",
+    "thumbnail": "",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/AVlP27NvG",
+    "chapter": 3
+  },
+  {
+    "id": "cap3_desafio2",
+    "title": "Cap 3 - Desafio 2: Bolinha Furiosa",
+    "description": "Crie uma bolinha que, toda vez que toca a parede, muda de cor e aumenta a velocidade, mas sem ultrapassar um limite máximo.",
+    "thumbnail": "./thumbs/cap3d2.gif",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/bj1IX6-D4",
+    "chapter": 3
+  },
+  {
+    "id": "cap4-1_mira",
+    "title": "Cap 4 - Sensores (Mira)",
+    "description": "Desenhe uma mira que acompanha o mouse. O traço fica mais grosso quando o mouse está pressionado",
+    "thumbnail": "./thumbs/cap4-1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/X8k2D0cJS",
+    "chapter": 4
+  },
+  {
+    "id": "cap4-2_mPressed_mReleased",
+    "title": "Cap 4 - Eventos: mousePressed e mouseReleased",
+    "description": "Crie um quadradinho que teleporta para a posição do mouse quando o botão é pressionado e troca de cor quando o botão é liberado.",
+    "thumbnail": "./thumbs/cap4-2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/RlvF6sM5r",
+    "chapter": 4
+  },
+  {
+    "id": "cap4-3_mMoved_mDragged",
+    "title": "Cap 4 - Eventos: mouseMoved e mouseDragged",
+    "description": "Crie uma trilha de pontos que segue o mouse quando ele é movido ou arrastado. A trilha fica mais discreta quando o mouse é movido e colorida quando é arrastado.",
+    "thumbnail": "./thumbs/cap4-3.gif",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/axBMlquDS",
+    "chapter": 4
+  },
+  {
+    "id": "cap4_desafio",
+    "title": "Cap 4 - DESAFIO: Carimbo de Emoji",
+    "description": "Crie um carimbo utilizando emojis.",
+    "thumbnail": "./thumbs/cap4d1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/P17Zl6Lnf",
+    "chapter": 4
+  },
+  {
+    "id": "cap5-1_keyIsPressed",
+    "title": "Cap 5 - keyIsPressed",
+    "description": ".",
+    "thumbnail": "",
+    "viewUrl": "",
+    "chapter": 5
+  },
+  {
+    "id": "cap5-2_keyIsDown",
+    "title": "",
+    "description": ".",
+    "thumbnail": "",
+    "viewUrl": "",
+    "chapter": 5
+  },
+  {
+    "id": "cap5-3_keyPressed",
+    "title": "",
+    "description": ".",
+    "thumbnail": "",
+    "viewUrl": "",
+    "chapter": 5
+  },
+  {
+    "id": "cap5-4_keyReleased",
+    "title": "",
+    "description": ".",
+    "thumbnail": "",
+    "viewUrl": "",
+    "chapter": 5
+  },
+  {
+    "id": "cap5-5_key",
+    "title": "",
+    "description": ".",
+    "thumbnail": "",
+    "viewUrl": "",
+    "chapter": 5
+  },
+  {
+    "id": "cap5-6_keyCode",
+    "title": "",
+    "description": ".",
+    "thumbnail": "",
+    "viewUrl": "",
+    "chapter": 5
+  },
+  {
+    "id": "cap5_desafio",
+    "title": "",
+    "description": ".",
+    "thumbnail": "",
+    "viewUrl": "",
+    "chapter": 5
   }
 ]
