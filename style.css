@@ -44,6 +44,7 @@ button {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 16px;
+  justify-content: center;
 }
 
 .project-card {
@@ -54,6 +55,8 @@ button {
   min-height: 220px;
   display: flex;
   flex-direction: column;
+  max-width: 400px;
+  width: 100%;
 }
 
 .project-thumb {
@@ -191,4 +194,24 @@ button {
 
 .error-box h2 {
   margin-top: 0;
+}
+.filters {
+  margin-top: 16px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.filters label {
+  font-weight: bold;
+}
+
+.filters select {
+  font: inherit;
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid #2b2b2b;
+  background: #1c1c1c;
+  color: #f5f5f5;
 }

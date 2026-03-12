@@ -1,21 +1,28 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Projetos p5</title>
-  <link rel="stylesheet" href="./style.css" />
-</head>
-<body class="gallery-page">
-  <header class="topbar">
-    <h1>Projetos p5</h1>
-    <p>Escolha um projeto para testar.</p>
-  </header>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Projetos p5</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body class="gallery-page">
+    <header class="topbar">
+      <h1>Projetos p5</h1>
+      <p>Escolha um projeto para testar.</p>
 
-  <main>
-    <section id="project-list" class="project-grid"></section>
-  </main>
+      <div class="filters">
+        <label for="chapter-filter">Capítulo:</label>
+        <select id="chapter-filter">
+          <option value="all">Todos os capítulos</option>
+        </select>
+      </div>
+    </header>
 
-  <script src="./app.js"></script>
-</body>
+    <main>
+      <section id="project-list" class="project-grid"></section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
 </html>
