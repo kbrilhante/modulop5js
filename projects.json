@@ -1,16 +1,16 @@
 [
   {
-    "id": "bolinha",
-    "title": "Bolinha",
-    "description": "Teste o movimento da bolinha.",
-    "thumbnail": "",
-    "viewUrl": "https://editor.p5js.org/SEU_USUARIO/full/SEU_ID_OU_LINK_LIMPO"
+    "id": "cap1_intro",
+    "title": "Introdução",
+    "description": "Comandos básicos do p5.",
+    "thumbnail": "thumbs/cap1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/v4MVDgbHj"
   },
   {
-    "id": "labirinto",
-    "title": "Labirinto",
-    "description": "Explore o comportamento do player.",
+    "id": "cap2-1_for",
+    "title": "Loop for 1",
+    "description": "Desenhe uma linha de quadradinhos.",
     "thumbnail": "",
-    "viewUrl": "https://editor.p5js.org/SEU_USUARIO/full/OUTRO_ID"
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/o0PR3OfXm"
   }
 ]
