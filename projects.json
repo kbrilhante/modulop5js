@@ -8,9 +8,128 @@
   },
   {
     "id": "cap2-1_for",
-    "title": "Loop for 1",
+    "title": "Cap 2 - Loop for 1",
     "description": "Desenhe uma linha de quadradinhos.",
     "thumbnail": "./thumbs/cap2-1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/o0PR3OfXm"
+  },
+  {
+    "id": "cap2-2_for",
+    "title": "Cap 2 - Loop for 2",
+    "description": "Desenhe uma linha de quadradinhos com tamanhos aleatórios.",
+    "thumbnail": "./thumbs/cap2-2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/2fN-ovZdJ"
+  },
+  {
+    "id": "cap2_desafio1",
+    "title": "Cap 2 - Desafio 1: Tinta escorrendo",
+    "description": "Desenhe uma sequência de linhas que parecem gotas de tinta escorrendo.",
+    "thumbnail": "./thumbs/cap2d1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/D-WLEAC-O"
+  },
+  {
+    "id": "cap2-3_for",
+    "title": "Cap 2 - Loop for 3",
+    "description": "Desenhe várias linhas de quadradinhos com tamanhos aleatórios.",
+    "thumbnail": "./thumbs/cap2-3.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/vi4Dn0tH1"
+  },
+  {
+    "id": "cap2-4_for",
+    "title": "Cap 2 - Loop for 4",
+    "description": "Desenhe várias linhas de quadradinhos com tamanhos e cores aleatórias.",
+    "thumbnail": "./thumbs/cap2-4.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/46sXOSqZx"
+  },
+  {
+    "id": "cap2_desafio2",
+    "title": "Cap 2 - Desafio 2: Céu estrelado",
+    "description": "Desenhe uma pixel art de céu estrelado.",
+    "thumbnail": "./thumbs/cap2d2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/4so4GfEx8"
+  },
+  {
+    "id": "",
+    "title": "",
+    "description": ".",
+    "thumbnail": "./thumbs",
+    "viewUrl": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "description": ".",
+    "thumbnail": "./thumbs",
+    "viewUrl": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "description": ".",
+    "thumbnail": "./thumbs",
+    "viewUrl": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "description": ".",
+    "thumbnail": "./thumbs",
+    "viewUrl": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "description": ".",
+    "thumbnail": "./thumbs",
+    "viewUrl": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "description": ".",
+    "thumbnail": "./thumbs",
+    "viewUrl": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "description": ".",
+    "thumbnail": "./thumbs",
+    "viewUrl": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "description": ".",
+    "thumbnail": "./thumbs",
+    "viewUrl": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "description": ".",
+    "thumbnail": "./thumbs",
+    "viewUrl": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "description": ".",
+    "thumbnail": "./thumbs",
+    "viewUrl": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "description": ".",
+    "thumbnail": "./thumbs",
+    "viewUrl": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "description": ".",
+    "thumbnail": "./thumbs",
+    "viewUrl": ""
   }
 ]
