@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Visualizador</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body class="viewer-page">
+  <div class="viewer-shell">
+    <header class="viewer-topbar">
+      <div class="viewer-info">
+        <h1 id="project-title">Carregando...</h1>
+        <p id="project-description"></p>
+      </div>
+
+      <div class="viewer-actions">
+        <button id="fullscreen-btn" type="button">Tela cheia</button>
+        <a href="./index.html" class="back-btn">Voltar</a>
+      </div>
+    </header>
+
+    <main class="viewer-stage">
+      <div id="iframe-wrap" class="iframe-wrap">
+        <div id="top-shield" class="top-shield" aria-hidden="true"></div>
+
+        <iframe
+          id="viewer"
+          title="Projeto p5"
+          referrerpolicy="no-referrer"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </main>
+  </div>
+
+  <script src="./viewer.js"></script>
+</body>
+</html>
