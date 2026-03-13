@@ -312,19 +312,83 @@
     "chapter": 8
   },
   {
-    "id": "cap8_desafio1",
-    "title": "Cap 8 - Dedafio 1: Parinho Correndo",
+    "id": "cap8_desafio",
+    "title": "Cap 8 - Desafio 1: Patinho Correndo",
     "description": "Controle a animação com o mouse.",
     "thumbnail": "./thumbs/cap8d.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/LM9hrSdtk",
     "chapter": 8
   },
   {
-    "id": "",
-    "title": "",
+    "id": "cap9-1_dist",
+    "title": "Cap 9 - Distância",
+    "description": "Demonstração da função dist().",
+    "thumbnail": "./thumbs/cap9-1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/6soeVbWeP",
+    "chapter": 9
+  },
+  {
+    "id": "cap9-2_evento_dist",
+    "title": "Cap 9 - Evento de distância",
+    "description": "Muda a cor do círculo quando o mouse está sobre ele.",
+    "thumbnail": "./thumbs/cap9-2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/WvSVSbUV5",
+    "chapter": 9
+  },
+  {
+    "id": "cap9-3_clique_range",
+    "title": "Cap 9 - Clique dentro de um alcance",
+    "description": "A cor do círculo só muda se o mouse estiver pressionado e dentro do círculo.",
+    "thumbnail": "./thumbs/cap9-2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/jOZL3xyZn",
+    "chapter": 9
+  },
+  {
+    "id": "cap9_desafio1",
+    "title": "Cap 9 - Desafio 1: Troca emoji",
+    "description": "Troque a imagem do emoji quando estiver clicando sobre ele.",
+    "thumbnail": "./thumbs/cap9d1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/BRN-HE643",
+    "chapter": 9
+  },
+  {
+    "id": "cap9-4_overlap",
+    "title": "Cap 9 - Sobreposição",
+    "description": "Demonstração de sobreposição.",
+    "thumbnail": "./thumbs/cap9-4.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/7Y1-8qj_U",
+    "chapter": 9
+  },
+  {
+    "id": "cap9-5_colisao",
+    "title": "Cap 9 - Colisão por distância",
+    "description": "Demonstração de colisão de dois círculos.",
+    "thumbnail": "./thumbs/cap9-5.gif",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/NVUrKIOq6",
+    "chapter": 9
+  },
+  {
+    "id": "cap9-6_collect",
+    "title": "Cap 9 - Colete as moedas",
+    "description": "Controle o alienzinho para coletar moedas. Use as setas para controlar o alien.",
+    "thumbnail": "./thumbs/cap9-6.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/aGpGKAxse",
+    "chapter": 9
+  },
+  {
+    "id": "cap9_desafio2",
+    "title": "Cap 9 - Desafio 2: Jogo Gato e Rato (Parte 1)",
+    "description": "Crie um jogo onde o rato deve desviar do gato e pegar o queijo.",
+    "thumbnail": "./thumbs/cap9d2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/DNWCBDgkV",
+    "chapter": 9
+  },
+  {
+    "id": "cap10",
+    "title": "Cap 10",
     "description": ".",
     "thumbnail": "",
     "viewUrl": "",
-    "chapter": 9
+    "chapter": 10
   }
 ]
