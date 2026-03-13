@@ -266,7 +266,7 @@
   {
     "id": "cap7-7_fila_dupla",
     "title": "Cap 7 - Fila Dupla",
-    "description": "Apresentando o conceito de fila dupla. Seta para esqueda: insere à esquerda. Seta para direita: insere à direita. Tecla A: remove à esquerda. Tecla D: remove à direita.",
+    "description": "Apresentando o conceito de fila dupla. Seta para esquerda: insere à esquerda. Seta para direita: insere à direita. Tecla A: remove à esquerda. Tecla D: remove à direita.",
     "thumbnail": "./thumbs/cap7-7.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/S9oKRsJ3q",
     "chapter": 7
@@ -378,17 +378,65 @@
   {
     "id": "cap9_desafio2",
     "title": "Cap 9 - Desafio 2: Jogo Gato e Rato (Parte 1)",
-    "description": "Crie um jogo onde o rato deve desviar do gato e pegar o queijo.",
+    "description": "Crie um jogo onde o rato deve desviar do gato e pegar o queijo. Use as teclas wasd para controlar o rato.",
     "thumbnail": "./thumbs/cap9d2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/DNWCBDgkV",
     "chapter": 9
   },
   {
-    "id": "cap10",
-    "title": "Cap 10",
-    "description": ".",
-    "thumbnail": "",
-    "viewUrl": "",
+    "id": "cap10-1_objeto1",
+    "title": "Cap 10 - Objeto (dictionaries)",
+    "description": "Crie um objeto bolinha com todas as suas propriedades.",
+    "thumbnail": "./thumbs/cap10-1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/fB4lu3JbN",
+    "chapter": 10
+  },
+  {
+    "id": "cap10-2_objeto2",
+    "title": "Cap 10 - Duas bolinhas",
+    "description": "Use objetos para gerenciar duas bolinhas com propriedades independentes.",
+    "thumbnail": "./thumbs/cap10-2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/9Itks0O3d",
+    "chapter": 10
+  },
+  {
+    "id": "cap10-3_objeto3",
+    "title": "Cap 10 - Duas bolinhas com colisão",
+    "description": "Use objetos para gerenciar as duas bolinhas e crie a função isTouching(a, b).",
+    "thumbnail": "./thumbs/cap10-2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/NumheWUe1",
+    "chapter": 10
+  },
+  {
+    "id": "cap10_rework",
+    "title": "Cap 10 - Rework: Jogo Gato e Rato",
+    "description": "Reescreva o jogo do Gato e Rato para diminuir o uso de variáveis e deixar o código um pouco mais eficiente.",
+    "thumbnail": "./thumbs/cap9d2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/xmOIOS9l5r",
+    "chapter": 10
+  },
+  {
+    "id": "cap10_desafio1",
+    "title": "Cap 10 - Desafio 1: Empurrar a bolinha",
+    "description": "Crie uma animação onde uma bolinha controlada pelo usuário consegue empurrar outra bolinha. Elas não podem ultrapassar uma barreira estabelecida nem se sobrepor. Aperte ESPAÇO para reiniciar as bolinhas.",
+    "thumbnail": "./thumbs/cap10d1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/VWRTS6SkA",
+    "chapter": 10
+  },
+  {
+    "id": "cap10-4_confeti",
+    "title": "Cap 10 - Confeti",
+    "description": "Crie um array que armazena uma nova bolinha a cada intervalo de tempo. Quando DELETE é pressionado, uma bolinha aleatória é apagada.",
+    "thumbnail": "./thumbs/cap10-4.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/wnwahK_wm",
+    "chapter": 10
+  },
+  {
+    "id": "cap10_desafio2",
+    "title": "Cap 10 - Desafio 2: Bolhas",
+    "description": "Crie várias bolhas que surgem da parte inferior da tela a cada intervalo de tempo. Bolhas também são criadas quando clicamos na tela. Quando tocam o topo da tela, as bolhas estouram.",
+    "thumbnail": "./thumbs/cap10d2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/DJBCv5YIA",
     "chapter": 10
   }
 ]
