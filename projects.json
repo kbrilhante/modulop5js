@@ -278,5 +278,53 @@
     "thumbnail": "./thumbs/cap7d2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/rojwdFP8I",
     "chapter": 7
+  },
+  {
+    "id": "cap8-1_preload",
+    "title": "Cap 8 - Função preload()",
+    "description": "Demonstração da função preload e a diferença dela para a setup.",
+    "thumbnail": "./thumbs/cap8-1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/siqpkKWXd",
+    "chapter": 8
+  },
+  {
+    "id": "cap8-2_propriedades",
+    "title": "Cap 8 - Propriedades das ibagens",
+    "description": "Demonstração das propriedades width e height e como utilizá-las no código.",
+    "thumbnail": "./thumbs/cap8-2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/UEaYHDb3O",
+    "chapter": 8
+  },
+  {
+    "id": "cap8-3_ibagens_array",
+    "title": "Cap 8 - Ibagens em array",
+    "description": "Demonstração de organização de várias ibagens em um array. Pressione ENTER para trocar de frame.",
+    "thumbnail": "./thumbs/cap8-3.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/LLtS85tKF",
+    "chapter": 8
+  },
+  {
+    "id": "cap8-4_Animacao",
+    "title": "Cap 8 - Animação",
+    "description": "Demonstração de uma animação com frame delay",
+    "thumbnail": "./thumbs/cap8-3.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/BeX8PkOA1",
+    "chapter": 8
+  },
+  {
+    "id": "cap8_desafio1",
+    "title": "Cap 8 - Dedafio 1: Parinho Correndo",
+    "description": "Controle a animação com o mouse.",
+    "thumbnail": "./thumbs/cap8d.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/LM9hrSdtk",
+    "chapter": 8
+  },
+  {
+    "id": "",
+    "title": "",
+    "description": ".",
+    "thumbnail": "",
+    "viewUrl": "",
+    "chapter": 9
   }
 ]
