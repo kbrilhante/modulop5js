@@ -352,3 +352,23 @@ button {
   color: #f5f5f5;
   opacity: 1;
 }
+
+.filter-actions {
+  display: flex;
+  gap: 6px;
+  margin-left: 10px;
+}
+
+.filter-actions button {
+  font-size: 0.75rem;
+  padding: 4px 8px;
+  border-radius: 6px;
+  border: 1px solid #333;
+  background: #1c1c1c;
+  color: #f5f5f5;
+  cursor: pointer;
+}
+
+.filter-actions button:hover {
+  background: #2a2a2a;
+}

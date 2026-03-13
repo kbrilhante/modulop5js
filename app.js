@@ -1,6 +1,8 @@
 const projectList = document.getElementById("project-list");
 const chapterFilter = document.getElementById("chapter-filter");
 const typeCheckboxes = document.querySelectorAll('input[name="type-filter"]');
+const checkAllBtn = document.getElementById("check-all-types");
+const uncheckAllBtn = document.getElementById("uncheck-all-types");
 
 let allProjects = [];
 
@@ -153,6 +155,16 @@ function buildTypeLabel(type) {
 }
 
 chapterFilter.addEventListener("change", applyFilters);
+
+checkAllBtn.addEventListener("click", () => {
+  typeCheckboxes.forEach(cb => cb.checked = true);
+  applyFilters();
+});
+
+uncheckAllBtn.addEventListener("click", () => {
+  typeCheckboxes.forEach(cb => cb.checked = false);
+  applyFilters();
+});
 
 typeCheckboxes.forEach(checkbox => {
   checkbox.addEventListener("change", applyFilters);

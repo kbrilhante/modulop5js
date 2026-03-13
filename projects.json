@@ -10,6 +10,26 @@
     "chapter": 1
   },
   {
+    "id": "cap1_desafio1",
+    "title": "Desafio 1: Ovo Frito",
+    "description": "",
+    "thumbnail": "",
+    "viewUrl": "",
+    "type": "challenge",
+    "topic": "Comandos Básicos",
+    "chapter": 1
+  },
+  {
+    "id": "cap1_desafio1",
+    "title": "Desafio 2: Marque um X",
+    "description": "",
+    "thumbnail": "",
+    "viewUrl": "",
+    "type": "challenge",
+    "topic": "Comandos Básicos",
+    "chapter": 1
+  },
+  {
     "id": "cap2-1_for",
     "title": "Linha de quadradinhos",
     "description": "Desenhe uma linha de quadradinhos.",
