@@ -12,9 +12,9 @@
   {
     "id": "cap1_desafio1",
     "title": "Desafio 1: Ovo Frito",
-    "description": "",
-    "thumbnail": "",
-    "viewUrl": "",
+    "description": "Desenhe um ovo frito!",
+    "thumbnail": "./thumbs/cap1d1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/6WLE4cxZc",
     "type": "challenge",
     "topic": "Comandos Básicos",
     "chapter": 1
@@ -22,9 +22,9 @@
   {
     "id": "cap1_desafio1",
     "title": "Desafio 2: Marque um X",
-    "description": "",
-    "thumbnail": "",
-    "viewUrl": "",
+    "description": "Desenhe o baú do tesour e marque um \"X\" bem em cima dele.",
+    "thumbnail": "./thumbs/cap1d2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/RpeZ3KWO-",
     "type": "challenge",
     "topic": "Comandos Básicos",
     "chapter": 1
