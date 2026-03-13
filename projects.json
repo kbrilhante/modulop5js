@@ -98,7 +98,7 @@
   {
     "id": "cap3-5_movimento_random_vel",
     "title": "Cap 3 - Movimento com velocidade aleatória",
-    "description": "Crie uma bolinha que se movimenta em linha reta e rebate quando toca na borda da tela. A sua velocidade e trajetória é aleatória",
+    "description": "Crie uma bolinha que se movimenta em linha reta e rebate quando toca na borda da tela. A sua velocidade e trajetória são aleatórias.",
     "thumbnail": "./thumbs/cap3.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/AVlP27NvG",
     "chapter": 3
@@ -114,7 +114,7 @@
   {
     "id": "cap4-1_mira",
     "title": "Cap 4 - Sensores (Mira)",
-    "description": "Desenhe uma mira que acompanha o mouse. O traço fica mais grosso quando o mouse está pressionado",
+    "description": "Desenhe uma mira que acompanha o mouse. O traço fica mais grosso quando o mouse está pressionado.",
     "thumbnail": "./thumbs/cap4-1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/X8k2D0cJS",
     "chapter": 4
@@ -137,7 +137,7 @@
   },
   {
     "id": "cap4_desafio",
-    "title": "Cap 4 - DESAFIO: Carimbo de Emoji",
+    "title": "Cap 4 - Desafio: Carimbo de Emoji",
     "description": "Crie um carimbo utilizando emojis.",
     "thumbnail": "./thumbs/cap4d1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/P17Zl6Lnf",
@@ -188,7 +188,7 @@
     "title": "Cap 5 - Variável keyCode",
     "description": "Troque a cor do quadrado quando a tecla \"x\" for pressionada.",
     "thumbnail": "./thumbs/cap5.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/TqVSiak49",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/LTYmcNz0H",
     "chapter": 5
   },
   {
@@ -234,7 +234,7 @@
   {
     "id": "cap7-4_corrida2",
     "title": "Cap 7 - Corrida 2",
-    "description": "Vamos fazer com que possamos adicionar tantos \"competidores\" quanto quisermos",
+    "description": "Vamos fazer com que possamos adicionar tantos \"competidores\" quanto quisermos.",
     "thumbnail": "./thumbs/cap7-4.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/Oxv7RD4oC",
     "chapter": 7
@@ -304,16 +304,16 @@
     "chapter": 8
   },
   {
-    "id": "cap8-4_Animacao",
+    "id": "cap8-4_animacao",
     "title": "Cap 8 - Animação",
-    "description": "Demonstração de uma animação com frame delay",
+    "description": "Demonstração de uma animação com frame delay.",
     "thumbnail": "./thumbs/cap8-3.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/BeX8PkOA1",
     "chapter": 8
   },
   {
     "id": "cap8_desafio",
-    "title": "Cap 8 - Desafio 1: Patinho Correndo",
+    "title": "Cap 8 - Desafio: Patinho Correndo",
     "description": "Controle a animação com o mouse.",
     "thumbnail": "./thumbs/cap8d.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/LM9hrSdtk",
@@ -378,14 +378,14 @@
   {
     "id": "cap9_desafio2",
     "title": "Cap 9 - Desafio 2: Jogo Gato e Rato (Parte 1)",
-    "description": "Crie um jogo onde o rato deve desviar do gato e pegar o queijo. Use as teclas wasd para controlar o rato.",
+    "description": "Crie um jogo onde o rato deve desviar do gato e pegar o queijo. Use as teclas WASD para controlar o rato.",
     "thumbnail": "./thumbs/cap9d2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/DNWCBDgkV",
     "chapter": 9
   },
   {
     "id": "cap10-1_objeto1",
-    "title": "Cap 10 - Objeto (dictionaries)",
+    "title": "Cap 10 - Objetos (dictionaries)",
     "description": "Crie um objeto bolinha com todas as suas propriedades.",
     "thumbnail": "./thumbs/cap10-1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/fB4lu3JbN",
@@ -408,7 +408,7 @@
     "chapter": 10
   },
   {
-    "id": "cap10_rework",
+    "id": "cap10_rework_gato_rato1",
     "title": "Cap 10 - Rework: Jogo Gato e Rato",
     "description": "Reescreva o jogo do Gato e Rato para diminuir o uso de variáveis e deixar o código um pouco mais eficiente.",
     "thumbnail": "./thumbs/cap9d2.png",
