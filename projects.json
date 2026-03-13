@@ -11,7 +11,7 @@
   },
   {
     "id": "cap2-1_for",
-    "title": "Cap 2 - Loop for 1",
+    "title": "Linha de quadradinhos",
     "description": "Desenhe uma linha de quadradinhos.",
     "thumbnail": "./thumbs/cap2-1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/o0PR3OfXm",
@@ -21,7 +21,7 @@
   },
   {
     "id": "cap2-2_for",
-    "title": "Cap 2 - Loop for 2",
+    "title": "Linha com tamanhos aleatórios",
     "description": "Desenhe uma linha de quadradinhos com tamanhos aleatórios.",
     "thumbnail": "./thumbs/cap2-2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/2fN-ovZdJ",
@@ -31,7 +31,7 @@
   },
   {
     "id": "cap2_desafio1",
-    "title": "Cap 2 - Desafio 1: Tinta escorrendo",
+    "title": "Desafio 1: Tinta escorrendo",
     "description": "Desenhe uma sequência de linhas que parecem gotas de tinta escorrendo.",
     "thumbnail": "./thumbs/cap2d1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/D-WLEAC-O",
@@ -41,7 +41,7 @@
   },
   {
     "id": "cap2-3_for",
-    "title": "Cap 2 - Loop for 3",
+    "title": "Grade de quadradinhos",
     "description": "Desenhe várias linhas de quadradinhos com tamanhos aleatórios.",
     "thumbnail": "./thumbs/cap2-3.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/vi4Dn0tH1",
@@ -51,7 +51,7 @@
   },
   {
     "id": "cap2-4_for",
-    "title": "Cap 2 - Loop for 4",
+    "title": "Quadradinhos coloridos",
     "description": "Desenhe várias linhas de quadradinhos com tamanhos e cores aleatórias.",
     "thumbnail": "./thumbs/cap2-4.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/46sXOSqZx",
@@ -61,7 +61,7 @@
   },
   {
     "id": "cap2_desafio2",
-    "title": "Cap 2 - Desafio 2: Céu estrelado",
+    "title": "Desafio 2: Céu estrelado",
     "description": "Desenhe uma pixel art de céu estrelado.",
     "thumbnail": "./thumbs/cap2d2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/4so4GfEx8",
@@ -71,7 +71,7 @@
   },
   {
     "id": "cap3-1_jitter",
-    "title": "Cap 3 - Jitter",
+    "title": "Jitter",
     "description": "Crie uma bolinha que treme com movimentos aleatórios.",
     "thumbnail": "./thumbs/cap3.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/NHNM5ItWA",
@@ -81,7 +81,7 @@
   },
   {
     "id": "cap3-2_jitter_constrain",
-    "title": "Cap 3 - Jitter com constrain",
+    "title": "Jitter com constrain",
     "description": "Crie uma bolinha que treme com movimentos aleatórios, mas agora ela fica restrita dentro dos limites da tela.",
     "thumbnail": "./thumbs/cap3.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/XyJ8Ozlsh",
@@ -91,7 +91,7 @@
   },
   {
     "id": "cap3-3_movimento_linear",
-    "title": "Cap 3 - Movimento linear",
+    "title": "Movimento linear",
     "description": "Crie uma bolinha que se movimenta em linha reta e aparece do outro lado quando sai da tela.",
     "thumbnail": "./thumbs/cap3.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/CMUa2ooHo",
@@ -101,7 +101,7 @@
   },
   {
     "id": "cap3_desafio1",
-    "title": "Cap 3 - Desafio 1: Chuvisco",
+    "title": "Desafio 1: Chuvisco",
     "description": "Crie uma gota de chuva que cai do topo da tela e se desfaz ao tocar o chão.",
     "thumbnail": "./thumbs/cap3d1.gif",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/F_sXKiOYw",
@@ -111,7 +111,7 @@
   },
   {
     "id": "cap3-4_movimento_bounce",
-    "title": "Cap 3 - Movimento com bounce",
+    "title": "Movimento com bounce",
     "description": "Crie uma bolinha que se movimenta em linha reta e rebate quando toca na borda da tela.",
     "thumbnail": "./thumbs/cap3.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/hH5j53oye",
@@ -121,7 +121,7 @@
   },
   {
     "id": "cap3-5_movimento_random_vel",
-    "title": "Cap 3 - Movimento com velocidade aleatória",
+    "title": "Movimento com velocidade aleatória",
     "description": "Crie uma bolinha que se movimenta em linha reta e rebate quando toca na borda da tela. A sua velocidade e trajetória são aleatórias.",
     "thumbnail": "./thumbs/cap3.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/AVlP27NvG",
@@ -131,7 +131,7 @@
   },
   {
     "id": "cap3_desafio2",
-    "title": "Cap 3 - Desafio 2: Bolinha Furiosa",
+    "title": "Desafio 2: Bolinha Furiosa",
     "description": "Crie uma bolinha que, toda vez que toca a parede, muda de cor e aumenta a velocidade, mas sem ultrapassar um limite máximo.",
     "thumbnail": "./thumbs/cap3d2.gif",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/bj1IX6-D4",
@@ -141,7 +141,7 @@
   },
   {
     "id": "cap4-1_mira",
-    "title": "Cap 4 - Sensores (Mira)",
+    "title": "Sensores (Mira)",
     "description": "Desenhe uma mira que acompanha o mouse. O traço fica mais grosso quando o mouse está pressionado.",
     "thumbnail": "./thumbs/cap4-1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/X8k2D0cJS",
@@ -151,7 +151,7 @@
   },
   {
     "id": "cap4-2_mPressed_mReleased",
-    "title": "Cap 4 - Eventos: mousePressed() e mouseReleased()",
+    "title": "Eventos: mousePressed() e mouseReleased()",
     "description": "Crie um quadradinho que teleporta para a posição do mouse quando o botão é pressionado e troca de cor quando o botão é liberado.",
     "thumbnail": "./thumbs/cap4-2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/RlvF6sM5r",
@@ -161,7 +161,7 @@
   },
   {
     "id": "cap4-3_mMoved_mDragged",
-    "title": "Cap 4 - Eventos: mouseMoved() e mouseDragged()",
+    "title": "Eventos: mouseMoved() e mouseDragged()",
     "description": "Crie uma trilha de pontos que segue o mouse quando ele é movido ou arrastado. A trilha fica mais discreta quando o mouse é movido e colorida quando é arrastado.",
     "thumbnail": "./thumbs/cap4-3.gif",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/axBMlquDS",
@@ -171,7 +171,7 @@
   },
   {
     "id": "cap4_desafio",
-    "title": "Cap 4 - Desafio: Carimbo de Emoji",
+    "title": "Desafio: Carimbo de Emoji",
     "description": "Crie um carimbo utilizando emojis.",
     "thumbnail": "./thumbs/cap4d1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/P17Zl6Lnf",
@@ -181,7 +181,7 @@
   },
   {
     "id": "cap5-1_keyIsPressed",
-    "title": "Cap 5 - keyIsPressed",
+    "title": "keyIsPressed",
     "description": "Troque a cor do quadrado enquanto qualquer tecla estiver pressionada.",
     "thumbnail": "./thumbs/cap5.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/QI7MB-fLI",
@@ -191,7 +191,7 @@
   },
   {
     "id": "cap5-2_keyIsDown",
-    "title": "Cap 5 - keyIsDown()",
+    "title": "keyIsDown()",
     "description": "Troque a cor do quadrado enquanto a tecla ENTER estiver pressionada.",
     "thumbnail": "./thumbs/cap5.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/OaIxy3IM2",
@@ -201,7 +201,7 @@
   },
   {
     "id": "cap5-3_keyPressed",
-    "title": "Cap 5 - keyPressed()",
+    "title": "keyPressed()",
     "description": "Troque a cor do quadrado quando qualquer tecla for pressionada.",
     "thumbnail": "./thumbs/cap5.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/whCKK_hRr",
@@ -211,7 +211,7 @@
   },
   {
     "id": "cap5-4_keyReleased",
-    "title": "Cap 5 - keyReleased()",
+    "title": "keyReleased()",
     "description": "Troque a cor do quadrado quando qualquer tecla for liberada.",
     "thumbnail": "./thumbs/cap5.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/y4xlRDQ7C",
@@ -221,7 +221,7 @@
   },
   {
     "id": "cap5-5_key",
-    "title": "Cap 5 - Variável key",
+    "title": "Variável key",
     "description": "Troque a cor do quadrado quando a tecla \"x\" for pressionada.",
     "thumbnail": "./thumbs/cap5.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/TqVSiak49",
@@ -231,7 +231,7 @@
   },
   {
     "id": "cap5-6_keyCode",
-    "title": "Cap 5 - Variável keyCode",
+    "title": "Variável keyCode",
     "description": "Troque a cor do quadrado quando a tecla \"x\" for pressionada.",
     "thumbnail": "./thumbs/cap5.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/LTYmcNz0H",
@@ -241,7 +241,7 @@
   },
   {
     "id": "cap5_desafio",
-    "title": "Cap 5 - Desafio: Controle o quadradinho",
+    "title": "Desafio: Controle o quadradinho",
     "description": "Crie um quadradinho que se movimenta de acordo com a tecla pressionada.",
     "thumbnail": "./thumbs/cap5d.gif",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/xHbhPjUMm",
@@ -251,7 +251,7 @@
   },
   {
     "id": "cap6_desenho1",
-    "title": "Cap 6 - Desenho na Tela (parte 1)",
+    "title": "Desenho na Tela (parte 1)",
     "description": "Crie um aplicativo de desenho estilo paint. Vamos aplicar um pincel, uma borracha e limpar a tela.",
     "thumbnail": "./thumbs/cap6.gif",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/00ON3aKj2",
@@ -261,7 +261,7 @@
   },
   {
     "id": "cap7-1_array",
-    "title": "Cap 7 - Array estático",
+    "title": "Array estático",
     "description": "Introdução a arrays.",
     "thumbnail": "./thumbs/cap7-1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/rEeLpCWN9",
@@ -271,7 +271,7 @@
   },
   {
     "id": "cap7-2_array_loop",
-    "title": "Cap 7 - Array com Loop",
+    "title": "Array com Loop",
     "description": "Usando o loop for para percorrer os elementos de um array.",
     "thumbnail": "./thumbs/cap7-1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/1H7IryuJK",
@@ -281,7 +281,7 @@
   },
   {
     "id": "cap7-3_corrida1",
-    "title": "Cap 7 - Corrida 1",
+    "title": "Corrida 1",
     "description": "Vamos fazer as bolinhas disputarem uma corrida, criando mais um array para gerenciar a posição X.",
     "thumbnail": "./thumbs/cap7-3.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/SNnvkgg2K",
@@ -291,7 +291,7 @@
   },
   {
     "id": "cap7-4_corrida2",
-    "title": "Cap 7 - Corrida 2",
+    "title": "Corrida 2",
     "description": "Vamos fazer com que possamos adicionar tantos \"competidores\" quanto quisermos.",
     "thumbnail": "./thumbs/cap7-4.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/Oxv7RD4oC",
@@ -301,7 +301,7 @@
   },
   {
     "id": "cap7_desafio1",
-    "title": "Cap 7 - Desafio 1: Super Corrida",
+    "title": "Desafio 1: Super Corrida",
     "description": "Melhore a atividade de corrida de modo que cada competidor tenha um número. Crie uma linha de chegada e informe ao usuário quem é o vencedor da corrida.",
     "thumbnail": "./thumbs/cap7d1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/ANqkdc3uQ",
@@ -311,7 +311,7 @@
   },
   {
     "id": "cap7-5_pilha",
-    "title": "Cap 7 - Pilha",
+    "title": "Pilha",
     "description": "Apresentando o conceito de pilha (LIFO). Seta para cima: insere na pilha. Seta para baixo: remove da pilha.",
     "thumbnail": "./thumbs/cap7-5.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/t-Qd5qTfN",
@@ -321,7 +321,7 @@
   },
   {
     "id": "cap7-6_fila",
-    "title": "Cap 7 - Fila",
+    "title": "Fila",
     "description": "Apresentando o conceito de fila (FIFO). ENTER: insere na fila. DELETE: remove da fila.",
     "thumbnail": "./thumbs/cap7-6.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/OzaWmblBx",
@@ -331,7 +331,7 @@
   },
   {
     "id": "cap7-7_fila_dupla",
-    "title": "Cap 7 - Fila Dupla",
+    "title": "Fila Dupla",
     "description": "Apresentando o conceito de fila dupla. Seta para esquerda: insere à esquerda. Seta para direita: insere à direita. Tecla A: remove à esquerda. Tecla D: remove à direita.",
     "thumbnail": "./thumbs/cap7-7.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/S9oKRsJ3q",
@@ -341,7 +341,7 @@
   },
   {
     "id": "cap7_desafio2",
-    "title": "Cap 7 - Desafio 2: Trilha de bolinhas",
+    "title": "Desafio 2: Trilha de bolinhas",
     "description": "Crie uma bolinha onde o mouse for clicado. Após uma determinada quantidade de bolinhas, você deve apagar a bolinha mais antiga.",
     "thumbnail": "./thumbs/cap7d2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/rojwdFP8I",
@@ -351,7 +351,7 @@
   },
   {
     "id": "cap8-1_preload",
-    "title": "Cap 8 - Função preload()",
+    "title": "Função preload()",
     "description": "Demonstração da função preload e a diferença dela para a setup.",
     "thumbnail": "./thumbs/cap8-1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/siqpkKWXd",
@@ -361,7 +361,7 @@
   },
   {
     "id": "cap8-2_propriedades",
-    "title": "Cap 8 - Propriedades das ibagens",
+    "title": "Propriedades das ibagens",
     "description": "Demonstração das propriedades width e height e como utilizá-las no código.",
     "thumbnail": "./thumbs/cap8-2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/UEaYHDb3O",
@@ -371,7 +371,7 @@
   },
   {
     "id": "cap8-3_ibagens_array",
-    "title": "Cap 8 - Ibagens em array",
+    "title": "Ibagens em array",
     "description": "Demonstração de organização de várias ibagens em um array. Pressione ENTER para trocar de frame.",
     "thumbnail": "./thumbs/cap8-3.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/LLtS85tKF",
@@ -381,7 +381,7 @@
   },
   {
     "id": "cap8-4_animacao",
-    "title": "Cap 8 - Animação",
+    "title": "Animação",
     "description": "Demonstração de uma animação com frame delay.",
     "thumbnail": "./thumbs/cap8-3.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/BeX8PkOA1",
@@ -391,7 +391,7 @@
   },
   {
     "id": "cap8_desafio",
-    "title": "Cap 8 - Desafio: Patinho Correndo",
+    "title": "Desafio: Patinho Correndo",
     "description": "Controle a animação com o mouse.",
     "thumbnail": "./thumbs/cap8d.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/LM9hrSdtk",
@@ -401,7 +401,7 @@
   },
   {
     "id": "cap9-1_dist",
-    "title": "Cap 9 - Distância",
+    "title": "Distância",
     "description": "Demonstração da função dist().",
     "thumbnail": "./thumbs/cap9-1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/6soeVbWeP",
@@ -411,7 +411,7 @@
   },
   {
     "id": "cap9-2_evento_dist",
-    "title": "Cap 9 - Evento de distância",
+    "title": "Evento de distância",
     "description": "Muda a cor do círculo quando o mouse está sobre ele.",
     "thumbnail": "./thumbs/cap9-2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/WvSVSbUV5",
@@ -421,7 +421,7 @@
   },
   {
     "id": "cap9-3_clique_range",
-    "title": "Cap 9 - Clique dentro de um alcance",
+    "title": "Clique dentro de um alcance",
     "description": "A cor do círculo só muda se o mouse estiver pressionado e dentro do círculo.",
     "thumbnail": "./thumbs/cap9-2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/jOZL3xyZn",
@@ -431,7 +431,7 @@
   },
   {
     "id": "cap9_desafio1",
-    "title": "Cap 9 - Desafio 1: Troca emoji",
+    "title": "Desafio 1: Troca emoji",
     "description": "Troque a imagem do emoji quando estiver clicando sobre ele.",
     "thumbnail": "./thumbs/cap9d1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/BRN-HE643",
@@ -441,7 +441,7 @@
   },
   {
     "id": "cap9-4_overlap",
-    "title": "Cap 9 - Sobreposição",
+    "title": "Sobreposição",
     "description": "Demonstração de sobreposição.",
     "thumbnail": "./thumbs/cap9-4.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/7Y1-8qj_U",
@@ -451,7 +451,7 @@
   },
   {
     "id": "cap9-5_colisao",
-    "title": "Cap 9 - Colisão por distância",
+    "title": "Colisão por distância",
     "description": "Demonstração de colisão de dois círculos.",
     "thumbnail": "./thumbs/cap9-5.gif",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/NVUrKIOq6",
@@ -461,7 +461,7 @@
   },
   {
     "id": "cap9-6_collect",
-    "title": "Cap 9 - Colete as moedas",
+    "title": "Colete as moedas",
     "description": "Controle o alienzinho para coletar moedas. Use as setas para controlar o alien.",
     "thumbnail": "./thumbs/cap9-6.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/aGpGKAxse",
@@ -471,7 +471,7 @@
   },
   {
     "id": "cap9_desafio2",
-    "title": "Cap 9 - Desafio 2: Jogo Gato e Rato (Parte 1)",
+    "title": "Desafio 2: Jogo Gato e Rato",
     "description": "Crie um jogo onde o rato deve desviar do gato e pegar o queijo. Use as teclas WASD para controlar o rato.",
     "thumbnail": "./thumbs/cap9d2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/DNWCBDgkV",
@@ -481,7 +481,7 @@
   },
   {
     "id": "cap10-1_objeto1",
-    "title": "Cap 10 - Objetos (dictionaries)",
+    "title": "Objeto (dictionary)",
     "description": "Crie um objeto bolinha com todas as suas propriedades.",
     "thumbnail": "./thumbs/cap10-1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/fB4lu3JbN",
@@ -491,7 +491,7 @@
   },
   {
     "id": "cap10-2_objeto2",
-    "title": "Cap 10 - Duas bolinhas",
+    "title": "Duas bolinhas",
     "description": "Use objetos para gerenciar duas bolinhas com propriedades independentes.",
     "thumbnail": "./thumbs/cap10-2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/9Itks0O3d",
@@ -501,7 +501,7 @@
   },
   {
     "id": "cap10-3_objeto3",
-    "title": "Cap 10 - Duas bolinhas com colisão",
+    "title": "Duas bolinhas com colisão",
     "description": "Use objetos para gerenciar as duas bolinhas e crie a função isTouching(a, b).",
     "thumbnail": "./thumbs/cap10-2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/NumheWUe1",
@@ -511,7 +511,7 @@
   },
   {
     "id": "cap10_rework_gato_rato1",
-    "title": "Cap 10 - Rework: Jogo Gato e Rato",
+    "title": "Rework: Jogo Gato e Rato (rw 1)",
     "description": "Reescreva o jogo do Gato e Rato para diminuir o uso de variáveis e deixar o código um pouco mais eficiente.",
     "thumbnail": "./thumbs/cap9d2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/xmOIOS9l5r",
@@ -521,7 +521,7 @@
   },
   {
     "id": "cap10_desafio1",
-    "title": "Cap 10 - Desafio 1: Empurrar a bolinha",
+    "title": "Desafio 1: Empurrar a bolinha",
     "description": "Crie uma animação onde uma bolinha controlada pelo usuário consegue empurrar outra bolinha. Elas não podem ultrapassar uma barreira estabelecida nem se sobrepor. Aperte ESPAÇO para reiniciar as bolinhas.",
     "thumbnail": "./thumbs/cap10d1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/VWRTS6SkA",
@@ -531,7 +531,7 @@
   },
   {
     "id": "cap10-4_confeti",
-    "title": "Cap 10 - Confeti",
+    "title": "Confeti",
     "description": "Crie um array que armazena uma nova bolinha a cada intervalo de tempo. Quando DELETE é pressionado, uma bolinha aleatória é apagada.",
     "thumbnail": "./thumbs/cap10-4.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/wnwahK_wm",
@@ -541,7 +541,7 @@
   },
   {
     "id": "cap10_desafio2",
-    "title": "Cap 10 - Desafio 2: Bolhas",
+    "title": "Desafio 2: Bolhas",
     "description": "Crie várias bolhas que surgem da parte inferior da tela a cada intervalo de tempo. Bolhas também são criadas quando clicamos na tela. Quando tocam o topo da tela, as bolhas estouram.",
     "thumbnail": "./thumbs/cap10d2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/DJBCv5YIA",
