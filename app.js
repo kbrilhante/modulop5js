@@ -1,5 +1,6 @@
 const projectList = document.getElementById("project-list");
 const chapterFilter = document.getElementById("chapter-filter");
+const typeCheckboxes = document.querySelectorAll('input[name="type-filter"]');
 
 let allProjects = [];
 
@@ -13,7 +14,7 @@ async function loadProjects() {
     allProjects = await response.json();
 
     populateChapterFilter(allProjects);
-    renderProjects(allProjects);
+    applyFilters();
   } catch (error) {
     console.error(error);
     projectList.innerHTML = `
@@ -40,14 +41,40 @@ function populateChapterFilter(projects) {
   }
 }
 
+function getSelectedTypes() {
+  return [...typeCheckboxes]
+    .filter(checkbox => checkbox.checked)
+    .map(checkbox => checkbox.value);
+}
+
+function applyFilters() {
+  const selectedChapter = chapterFilter.value;
+  const selectedTypes = getSelectedTypes();
+
+  let filteredProjects = [...allProjects];
+
+  if (selectedChapter !== "all") {
+    const chapterNumber = Number(selectedChapter);
+    filteredProjects = filteredProjects.filter(
+      project => project.chapter === chapterNumber
+    );
+  }
+
+  filteredProjects = filteredProjects.filter(project =>
+    selectedTypes.includes(project.type)
+  );
+
+  renderProjects(filteredProjects);
+}
+
 function renderProjects(projects) {
   projectList.innerHTML = "";
 
   if (projects.length === 0) {
     projectList.innerHTML = `
       <div class="error-box">
-        <h2>Nenhum projeto encontrado</h2>
-        <p>Não há projetos para este filtro.</p>
+        <h2>Nenhuma atividade encontrada</h2>
+        <p>Não há projetos para os filtros selecionados.</p>
       </div>
     `;
     return;
@@ -79,39 +106,56 @@ function createProjectCard(project) {
   const title = document.createElement("h2");
   title.textContent = project.title || "Sem título";
 
+  const meta = document.createElement("p");
+  meta.className = "project-meta";
+  meta.textContent = buildMetaText(project);
+
   const description = document.createElement("p");
   description.textContent = project.description || "Sem descrição.";
 
-  const meta = document.createElement("p");
-  meta.className = "project-meta";
-  meta.textContent = Number.isInteger(project.chapter)
-    ? `Capítulo ${project.chapter}`
-    : "Sem capítulo";
+  const type = document.createElement("p");
+  type.className = "project-type";
+  type.textContent = buildTypeLabel(project.type);
 
   const link = document.createElement("a");
   link.href = `./viewer.html?id=${encodeURIComponent(project.id)}`;
   link.textContent = "Visualizar atividade";
 
-  content.append(title, description, meta, link);
+  content.append(title, meta, description, type, link);
   article.append(thumb, content);
 
   return article;
 }
 
-chapterFilter.addEventListener("change", () => {
-  const selected = chapterFilter.value;
+function buildMetaText(project) {
+  const chapterText = Number.isInteger(project.chapter)
+    ? `Capítulo ${project.chapter}`
+    : "Sem capítulo";
 
-  if (selected === "all") {
-    renderProjects(allProjects);
-    return;
+  const topicText = project.topic?.trim()
+    ? project.topic.trim()
+    : "Sem tema";
+
+  return `${chapterText} - ${topicText}`;
+}
+
+function buildTypeLabel(type) {
+  switch (type) {
+    case "activity":
+      return "Atividade";
+    case "challenge":
+      return "Desafio";
+    case "rework":
+      return "Rework";
+    default:
+      return "Tipo desconhecido";
   }
+}
 
-  const selectedChapter = Number(selected);
-  const filteredProjects = allProjects.filter(
-    project => project.chapter === selectedChapter
-  );
+chapterFilter.addEventListener("change", applyFilters);
 
-  renderProjects(filteredProjects);
+typeCheckboxes.forEach(checkbox => {
+  checkbox.addEventListener("change", applyFilters);
 });
 
 loadProjects();

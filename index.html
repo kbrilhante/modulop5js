@@ -12,11 +12,49 @@
       <h1>Projetos p5</h1>
       <p>Escolha um projeto para testar.</p>
 
-      <div class="filters">
-        <label for="chapter-filter">Capítulo:</label>
-        <select id="chapter-filter">
-          <option value="all">Todos os capítulos</option>
-        </select>
+      <div class="filters-wrap">
+        <div class="filters">
+          <div class="filter-group">
+            <label for="chapter-filter">Capítulo:</label>
+            <select id="chapter-filter">
+              <option value="all">Todos os capítulos</option>
+            </select>
+          </div>
+
+          <div class="filter-group">
+            <span class="filter-label">Tipo:</span>
+
+            <label class="checkbox-option">
+              <input
+                type="checkbox"
+                name="type-filter"
+                value="activity"
+                checked
+              />
+              <span>Atividade</span>
+            </label>
+
+            <label class="checkbox-option">
+              <input
+                type="checkbox"
+                name="type-filter"
+                value="challenge"
+                checked
+              />
+              <span>Desafio</span>
+            </label>
+
+            <label class="checkbox-option">
+              <input
+                type="checkbox"
+                name="type-filter"
+                value="rework"
+                checked
+              />
+              <span>Rework</span>
+            </label>
+          </div>
+        </div>
       </div>
     </header>
 
