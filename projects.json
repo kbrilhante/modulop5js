@@ -208,11 +208,75 @@
     "chapter": 6
   },
   {
-    "id": "cap7_",
-    "title": "Cap 7 - ",
-    "description": "",
-    "thumbnail": "",
-    "viewUrl": "",
+    "id": "cap7-1_array",
+    "title": "Cap 7 - Array estático",
+    "description": "Introdução a arrays.",
+    "thumbnail": "./thumbs/cap7-1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/rEeLpCWN9",
+    "chapter": 7
+  },
+  {
+    "id": "cap7-2_array_loop",
+    "title": "Cap 7 - Array com Loop",
+    "description": "Usando o loop for para percorrer os elementos de um array.",
+    "thumbnail": "./thumbs/cap7-1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/1H7IryuJK",
+    "chapter": 7
+  },
+  {
+    "id": "cap7-3_corrida1",
+    "title": "Cap 7 - Corrida 1",
+    "description": "Vamos fazer as bolinhas disputarem uma corrida, criando mais um array para gerenciar a posição X.",
+    "thumbnail": "./thumbs/cap7-3.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/SNnvkgg2K",
+    "chapter": 7
+  },
+  {
+    "id": "cap7-4_corrida2",
+    "title": "Cap 7 - Corrida 2",
+    "description": "Vamos fazer com que possamos adicionar tantos \"competidores\" quanto quisermos",
+    "thumbnail": "./thumbs/cap7-4.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/Oxv7RD4oC",
+    "chapter": 7
+  },
+  {
+    "id": "cap7_desafio1",
+    "title": "Cap 7 - Desafio 1: Super Corrida",
+    "description": "Melhore a atividade de corrida de modo que cada competidor tenha um número. Crie uma linha de chegada e informe ao usuário quem é o vencedor da corrida.",
+    "thumbnail": "./thumbs/cap7d1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/ANqkdc3uQ",
+    "chapter": 7
+  },
+  {
+    "id": "cap7-5_pilha",
+    "title": "Cap 7 - Pilha",
+    "description": "Apresentando o conceito de pilha (LIFO). Seta para cima: insere na pilha. Seta para baixo: remove da pilha.",
+    "thumbnail": "./thumbs/cap7-5.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/t-Qd5qTfN",
+    "chapter": 7
+  },
+  {
+    "id": "cap7-6_fila",
+    "title": "Cap 7 - Fila",
+    "description": "Apresentando o conceito de fila (FIFO). ENTER: insere na fila. DELETE: remove da fila.",
+    "thumbnail": "./thumbs/cap7-6.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/OzaWmblBx",
+    "chapter": 7
+  },
+  {
+    "id": "cap7-7_fila_dupla",
+    "title": "Cap 7 - Fila Dupla",
+    "description": "Apresentando o conceito de fila dupla. Seta para esqueda: insere à esquerda. Seta para direita: insere à direita. Tecla A: remove à esquerda. Tecla D: remove à direita.",
+    "thumbnail": "./thumbs/cap7-7.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/S9oKRsJ3q",
+    "chapter": 7
+  },
+  {
+    "id": "cap7_desafio2",
+    "title": "Cap 7 - Desafio 2: Trilha de bolinhas",
+    "description": "Crie uma bolinha onde o mouse for clicado. Após uma determinada quantidade de bolinhas, você deve apagar a bolinha mais antiga.",
+    "thumbnail": "./thumbs/cap7d2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/rojwdFP8I",
     "chapter": 7
   }
 ]

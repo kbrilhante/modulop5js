@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Links das atividades</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body class="gallery-page">
+    <header class="topbar">
+      <h1>Links das atividades</h1>
+      <p>Lista rápida para copiar e colar no Trello.</p>
+
+      <div class="filters">
+        <label for="chapter-filter">Capítulo:</label>
+        <select id="chapter-filter">
+          <option value="all">Todos os capítulos</option>
+        </select>
+      </div>
+    </header>
+
+    <main>
+      <section class="links-toolbar">
+        <button id="copy-all-btn" type="button">Copiar tudo</button>
+      </section>
+
+      <section id="links-list" class="links-list"></section>
+    </main>
+
+    <script src="./links.js"></script>
+  </body>
+</html>
