@@ -147,6 +147,8 @@ function buildTypeLabel(type) {
       return "Atividade";
     case "challenge":
       return "Desafio";
+    case "demo":
+      return "Demonstração";
     case "rework":
       return "Rework";
     default:

@@ -568,5 +568,25 @@
     "type": "challenge",
     "topic": "Objetos Literais (Dictionary)",
     "chapter": 10
+  },
+  {
+    "id": "cap11-a_sen_cos",
+    "title": "Conceito de Seno e Cosseno",
+    "description": "",
+    "thumbnail": "./thumbs/cap11-1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/knzCfd59b",
+    "type": "demo",
+    "topic": "Trigonometria",
+    "chapter": 11
+  },
+  {
+    "id": "cap11-b_atan2",
+    "title": "Conceito de Arco Tangente",
+    "description": "",
+    "thumbnail": "./thumbs/cap11-1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/ryY96RDw5",
+    "type": "demo",
+    "topic": "Trigonometria",
+    "chapter": 11
   }
 ]
