@@ -572,18 +572,28 @@
   {
     "id": "cap11-a_sen_cos",
     "title": "Conceito de Seno e Cosseno",
-    "description": "",
-    "thumbnail": "./thumbs/cap11-1.png",
+    "description": "Demonstração de seno e cosseno. Barra de espaço: liga/desliga o ângulo. 0: 0°; 1: 30°; 2: 45°; 3: 60°; 4: 90°; 5: 180°; 6: 270°; 7: -90°; 8: -45°; 9: angulo aleatório -180° - 360°.",
+    "thumbnail": "./thumbs/cap11-a.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/knzCfd59b",
     "type": "demo",
     "topic": "Trigonometria",
     "chapter": 11
   },
   {
+    "id": "cap11-1_translate",
+    "title": "Translate",
+    "description": "Crie uma espécie de mira na posição 0,0. Essa posição deve atualizar de acordo com mouseX e mouseY",
+    "thumbnail": "./thumbs/cap11-1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/kz4QiapWZ",
+    "type": "activity",
+    "topic": "Trigonometria",
+    "chapter": 11
+  },
+  {
     "id": "cap11-b_atan2",
     "title": "Conceito de Arco Tangente",
-    "description": "",
-    "thumbnail": "./thumbs/cap11-1.png",
+    "description": "Demonstração arco tangente. Determina o ângulo a partir da mosição do mouse em relação ao centro.",
+    "thumbnail": "./thumbs/cap11-a.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/ryY96RDw5",
     "type": "demo",
     "topic": "Trigonometria",
