@@ -76,39 +76,44 @@ function createLinkItem(project) {
   const article = document.createElement("article");
   article.className = "p5-link-card";
 
+  const thumb = document.createElement("div");
+  thumb.className = "p5-link-thumb";
+
+  if (project.thumbnail) {
+    thumb.style.backgroundImage = `url("${project.thumbnail}")`;
+  } else {
+    thumb.textContent = "Sem thumb";
+  }
+
+  const content = document.createElement("div");
+  content.className = "p5-link-content";
+
   const title = document.createElement("h2");
-  title.className = "p5-link-title";
   title.textContent = project.title || "Sem título";
 
   const meta = document.createElement("p");
   meta.className = "p5-link-meta";
   meta.textContent = `Capítulo ${project.chapter} - ${project.topic || "Sem tema"}`;
 
-  const input = document.createElement("input");
-  input.className = "p5-link-input";
-  input.type = "text";
-  input.readOnly = true;
-  input.value = project.viewUrl || "";
-
   const actions = document.createElement("div");
   actions.className = "p5-link-actions";
 
-  const copyBtn = document.createElement("button");
-  copyBtn.type = "button";
-  copyBtn.textContent = "Copiar";
-  copyBtn.addEventListener("click", async () => {
-    await copyText(project.viewUrl || "", copyBtn, "Copiar", "Copiado!");
-  });
-
   const openBtn = document.createElement("a");
-  openBtn.className = "p5-link-open";
   openBtn.href = project.viewUrl || "#";
   openBtn.target = "_blank";
   openBtn.rel = "noopener noreferrer";
-  openBtn.textContent = "Abrir";
+  openBtn.textContent = "Abrir no p5";
 
-  actions.append(copyBtn, openBtn);
-  article.append(title, meta, input, actions);
+  const copyBtn = document.createElement("button");
+  copyBtn.textContent = "Copiar link";
+  copyBtn.addEventListener("click", async () => {
+    await copyText(project.viewUrl || "", copyBtn, "Copiar link", "Copiado!");
+  });
+
+  actions.append(openBtn, copyBtn);
+  content.append(title, meta, actions);
+
+  article.append(thumb, content);
 
   return article;
 }
