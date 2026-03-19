@@ -16,6 +16,10 @@ async function loadProjects() {
     allProjects = await response.json();
 
     populateChapterFilter(allProjects);
+
+    // 👇 aplica o filtro vindo da URL
+    applyInitialChapterFromUrl();
+
     applyFilters();
   } catch (error) {
     console.error(error);
@@ -153,6 +157,34 @@ function buildTypeLabel(type) {
       return "Rework";
     default:
       return "Tipo desconhecido";
+  }
+}
+
+function getChapterFromUrl() {
+  const params = new URLSearchParams(window.location.search);
+  const value = params.get("chapter");
+
+  if (!value) return null;
+
+  // garante que é número válido
+  if (/^\d+$/.test(value)) {
+    return value;
+  }
+
+  return null;
+}
+
+function applyInitialChapterFromUrl() {
+  const chapterFromUrl = getChapterFromUrl();
+
+  if (!chapterFromUrl) return;
+
+  const exists = [...chapterFilter.options].some(
+    opt => opt.value === chapterFromUrl
+  );
+
+  if (exists) {
+    chapterFilter.value = chapterFromUrl;
   }
 }
 
