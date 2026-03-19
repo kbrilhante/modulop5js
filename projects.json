@@ -380,6 +380,16 @@
     "chapter": 7
   },
   {
+    "id": "cap8-1m",
+    "title": "Modelo: Ibagens",
+    "description": "Atividades de aula com ibagens.",
+    "thumbnail": "./thumbs/cap8-1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/VzGF7FQ5X",
+    "type": "template",
+    "topic": "Ibagens",
+    "chapter": 8
+  },
+  {
     "id": "cap8-1",
     "title": "Função preload()",
     "description": "Demonstração da função preload e a diferença dela para a setup.",
@@ -426,6 +436,16 @@
     "thumbnail": "./thumbs/cap8d.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/LM9hrSdtk",
     "type": "challenge",
+    "topic": "Ibagens",
+    "chapter": 8
+  },
+  {
+    "id": "cap8d1m",
+    "title": "Modelo: Patinho Correndo",
+    "description": "Controle a animação com o mouse.",
+    "thumbnail": "./thumbs/cap8d.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/lqKA2QE-1",
+    "type": "template",
     "topic": "Ibagens",
     "chapter": 8
   },
@@ -500,12 +520,32 @@
     "chapter": 9
   },
   {
+    "id": "cap9-6m",
+    "title": "Modelo: Colete as moedas",
+    "description": "Modelo do projeto Colete as Moedas",
+    "thumbnail": "./thumbs/cap9-6.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/x8Ed2qxQ8",
+    "type": "template",
+    "topic": "Distância e Colisão",
+    "chapter": 9
+  },
+  {
     "id": "cap9d2",
-    "title": "Desafio 2: Jogo Gato e Rato",
+    "title": "Desafio 2: Jogo Gato e Rato (parte 1)",
     "description": "Crie um jogo onde o rato deve desviar do gato e pegar o queijo. Use as teclas WASD para controlar o rato.",
     "thumbnail": "./thumbs/cap9d2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/DNWCBDgkV",
     "type": "challenge",
+    "topic": "Distância e Colisão",
+    "chapter": 9
+  },
+  {
+    "id": "cap9d2m",
+    "title": "Modelo: Jogo Gato e Rato",
+    "description": "Modelo do jogo do gato e rato.",
+    "thumbnail": "./thumbs/cap9d2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/-YPzRZJfK",
+    "type": "template",
     "topic": "Distância e Colisão",
     "chapter": 9
   },
