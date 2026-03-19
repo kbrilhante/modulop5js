@@ -590,12 +590,72 @@
     "chapter": 11
   },
   {
+    "id": "cap11-2_circular",
+    "title": "Movimento Circular",
+    "description": "Define um movimento circular para a bolinha. Seta para cima: empurra no sentido horário. Seta para baixo: empurra no sentido anti-horário.",
+    "thumbnail": "./thumbs/cap11-2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/fpukZ6CAu",
+    "type": "activity",
+    "topic": "Trigonometria",
+    "chapter": 11
+  },
+  {
+    "id": "cap11-3_sistema_solar",
+    "title": "Sistema Solar",
+    "description": "Crie um modelo do sistema solar em escala aproximada.",
+    "thumbnail": "./thumbs/cap11-3.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/Y7ldz8YoX",
+    "type": "activity",
+    "topic": "Trigonometria",
+    "chapter": 11
+  },
+  {
+    "id": "cap11-4_relogio",
+    "title": "Relógio",
+    "description": "Construa um relógio analógico.",
+    "thumbnail": "./thumbs/cap11-4.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/StW2sInk2",
+    "type": "activity",
+    "topic": "Trigonometria",
+    "chapter": 11
+  },
+  {
+    "id": "cap11_desafio1",
+    "title": "Desafio 1: Dia e Noite",
+    "description": "Desenhe o Sol e a Lua e faça o céu mudar de cor conforme os astros rotacionam.",
+    "thumbnail": "./thumbs/cap11d1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/pVXHfva8w",
+    "type": "challenge",
+    "topic": "Trigonometria",
+    "chapter": 11
+  },
+  {
+    "id": "cap11_rework_gato_rato2",
+    "title": "Rework: Jogo Gato e Rato (rw 2)",
+    "description": "Reescreva o jogo do Gato e Rato de modo que o a velocidade e trajetória do gato sejam mais precisas.",
+    "thumbnail": "./thumbs/cap9d2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/4J2VOLunC",
+    "type": "rework",
+    "topic": "Trigonometria",
+    "chapter": 11
+  },
+  {
     "id": "cap11-b_atan2",
     "title": "Conceito de Arco Tangente",
     "description": "Demonstração arco tangente. Determina o ângulo a partir da mosição do mouse em relação ao centro.",
     "thumbnail": "./thumbs/cap11-a.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/ryY96RDw5",
     "type": "demo",
+    "topic": "Trigonometria",
+    "chapter": 11
+  },
+  {
+    "id": "cap11-5_bounce",
+    "title": "Bounce com Lançamento",
+    "description": "Crie uma bolinha que pode ter sua direção e trajetória definidas pelo usuário.",
+    "thumbnail": "./thumbs/cap11-5.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/7BhRVDcT4",
+    "type": "activity",
     "topic": "Trigonometria",
     "chapter": 11
   }
