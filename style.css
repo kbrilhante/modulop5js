@@ -372,3 +372,58 @@ button {
 .filter-actions button:hover {
   background: #2a2a2a;
 }
+
+.p5-links-list {
+  display: grid;
+  gap: 14px;
+  margin-top: 20px;
+}
+
+.p5-link-card {
+  background: #1c1c1c;
+  border: 1px solid #2b2b2b;
+  border-radius: 14px;
+  padding: 14px;
+}
+
+.p5-link-title {
+  margin: 0 0 6px;
+  font-size: 1rem;
+}
+
+.p5-link-meta {
+  margin: 0 0 10px;
+  font-size: 0.9rem;
+  opacity: 0.8;
+  font-weight: 600;
+}
+
+.p5-link-input {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid #333;
+  background: #111;
+  color: #f5f5f5;
+  font: inherit;
+}
+
+.p5-link-actions {
+  display: flex;
+  gap: 8px;
+  margin-top: 10px;
+  flex-wrap: wrap;
+}
+
+.p5-link-actions button,
+.p5-link-open {
+  background: #f5f5f5;
+  color: #111;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.85rem;
+  line-height: 1.1;
+  text-decoration: none;
+}
