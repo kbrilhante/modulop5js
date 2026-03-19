@@ -701,7 +701,7 @@
   },
   {
     "id": "cap11-5",
-    "title": "Bounce com Lançamento",
+    "title": "Bolinha com Lançamento",
     "description": "Crie uma bolinha que pode ter sua direção e trajetória definidas pelo usuário.",
     "thumbnail": "./thumbs/cap11-5.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/7BhRVDcT4",
