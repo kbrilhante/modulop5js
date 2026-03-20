@@ -718,5 +718,35 @@
     "type": "activity",
     "topic": "Trigonometria",
     "chapter": 11
+  },
+  {
+    "id": "cap11-7",
+    "title": "Rotate",
+    "description": "Crie um triângulo que rotaciona na tela.",
+    "thumbnail": "./thumbs/cap11-7.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/UeTFepZ89",
+    "type": "activity",
+    "topic": "Trigonometria",
+    "chapter": 11
+  },
+  {
+    "id": "cap11-8",
+    "title": "Ponteiro para o mouse",
+    "description": "Faça o triângulo sempre apontar para o mouse.",
+    "thumbnail": "./thumbs/cap11-7.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/nX6T1GG9I",
+    "type": "activity",
+    "topic": "Trigonometria",
+    "chapter": 11
+  },
+  {
+    "id": "cap11d2",
+    "title": "Desafio 2: Asteroids",
+    "description": "Crie uma nave que se movimenta parecido com o jogo Asteroids",
+    "thumbnail": "./thumbs/cap11d2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/JOgBNbtKE",
+    "type": "challenge",
+    "topic": "Trigonometria",
+    "chapter": 11
   }
 ]
