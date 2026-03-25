@@ -272,7 +272,7 @@
   {
     "id": "cap5d1",
     "title": "Desafio: Controle o quadradinho",
-    "description": "Crie um quadradinho que se movimenta de acordo com a tecla pressionada.",
+    "description": "Crie um quadradinho que se movimenta de acordo com a tecla pressionada. Espaço muda a cor do quadradinho. + e - alteram o tamanho do quadradinho.",
     "thumbnail": "./thumbs/cap5d.gif",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/xHbhPjUMm",
     "type": "challenge",
@@ -710,6 +710,16 @@
     "chapter": 11
   },
   {
+    "id": "cap11d2",
+    "title": "Desafio 2: Perseguição",
+    "description": "Faça o seu personagem fugir dos inimigos usando as setas do teclado.",
+    "thumbnail": "./thumbs/cap11d2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/tNmc0h_TE",
+    "type": "challenge",
+    "topic": "Trigonometria",
+    "chapter": 11
+  },
+  {
     "id": "cap11-7",
     "title": "Rotate",
     "description": "Crie um triângulo que rotaciona na tela.",
@@ -717,7 +727,7 @@
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/UeTFepZ89",
     "type": "activity",
     "topic": "Trigonometria",
-    "chapter": 11
+    "chapter": 0
   },
   {
     "id": "cap11-8",
@@ -727,7 +737,7 @@
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/nX6T1GG9I",
     "type": "activity",
     "topic": "Trigonometria",
-    "chapter": 11
+    "chapter": 0
   },
   {
     "id": "cap11d2",
@@ -737,6 +747,6 @@
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/X5R2likUV",
     "type": "challenge",
     "topic": "Trigonometria",
-    "chapter": 11
+    "chapter": 0
   }
 ]
