@@ -720,33 +720,43 @@
     "chapter": 11
   },
   {
-    "id": "cap11-7",
+    "id": "",
     "title": "Rotate",
     "description": "Crie um triângulo que rotaciona na tela.",
-    "thumbnail": "./thumbs/cap11-7.png",
+    "thumbnail": "",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/UeTFepZ89",
-    "type": "activity",
-    "topic": "Trigonometria",
+    "type": "",
+    "topic": "",
     "chapter": 0
   },
   {
-    "id": "cap11-8",
+    "id": "",
     "title": "Ponteiro para o mouse",
     "description": "Faça o triângulo sempre apontar para o mouse.",
-    "thumbnail": "./thumbs/cap11-7.png",
+    "thumbnail": "",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/nX6T1GG9I",
-    "type": "activity",
-    "topic": "Trigonometria",
+    "type": "",
+    "topic": "",
     "chapter": 0
   },
   {
-    "id": "cap11d2",
+    "id": "",
+    "title": "Asteroids (parte 1)",
+    "description": "",
+    "thumbnail": "",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/JOgBNbtKE",
+    "type": "",
+    "topic": "",
+    "chapter": 0
+  },
+  {
+    "id": "",
     "title": "Desafio 2: Nave em volta do planeta",
     "description": "Crie uma nave que se movimenta em volta do planeta.",
-    "thumbnail": "./thumbs/cap11d2.png",
+    "thumbnail": "",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/X5R2likUV",
-    "type": "challenge",
-    "topic": "Trigonometria",
+    "type": "",
+    "topic": "",
     "chapter": 0
   }
 ]
