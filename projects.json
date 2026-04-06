@@ -720,6 +720,26 @@
     "chapter": 11
   },
   {
+    "id": "cap12",
+    "title": "Jogo Bullet Hell",
+    "description": "Crie um jogo Bullet Hell. Seu objetivo é desviar e atirar nos inimigos. Setas/WASD: controla o jogador; Mouse: atira; DEL: ativa/desativa o modo Debug.",
+    "thumbnail": "./thumbs/cap12.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/FixQ4cdVT",
+    "type": "activity",
+    "topic": "Bullet Hell",
+    "chapter": 12
+  },
+  {
+    "id": "cap12m",
+    "title": "Modelo: Jogo Bullet Hell",
+    "description": "Modelo do Jogo Bullet Hell",
+    "thumbnail": "./thumbs/cap12.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/W8zG72hzD",
+    "type": "template",
+    "topic": "Bullet Hell",
+    "chapter": 12
+  },
+  {
     "id": "",
     "title": "Rotate",
     "description": "Crie um triângulo que rotaciona na tela.",
