@@ -430,22 +430,22 @@
     "chapter": 8
   },
   {
-    "id": "cap8d1",
-    "title": "Desafio: Patinho Correndo",
-    "description": "Controle a animação com o mouse.",
-    "thumbnail": "./thumbs/cap8d.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/LM9hrSdtk",
-    "type": "challenge",
-    "topic": "Ibagens",
-    "chapter": 8
-  },
-  {
     "id": "cap8d1m",
     "title": "Modelo: Patinho Correndo",
     "description": "Controle a animação com o mouse.",
     "thumbnail": "./thumbs/cap8d.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/lqKA2QE-1",
     "type": "template",
+    "topic": "Ibagens",
+    "chapter": 8
+  },
+  {
+    "id": "cap8d1",
+    "title": "Desafio: Patinho Correndo",
+    "description": "Controle a animação com o mouse.",
+    "thumbnail": "./thumbs/cap8d.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/LM9hrSdtk",
+    "type": "challenge",
     "topic": "Ibagens",
     "chapter": 8
   },
@@ -510,22 +510,22 @@
     "chapter": 9
   },
   {
-    "id": "cap9d2",
-    "title": "Colete as moedas",
-    "description": "Controle o alienzinho para coletar moedas. Use as setas para controlar o alien.",
-    "thumbnail": "./thumbs/cap9d2.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/aGpGKAxse",
-    "type": "activity",
-    "topic": "Distância e Colisão",
-    "chapter": 9
-  },
-  {
     "id": "cap9d2m",
     "title": "Modelo: Colete as moedas",
     "description": "Modelo do projeto Colete as Moedas",
     "thumbnail": "./thumbs/cap9d2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/x8Ed2qxQ8",
     "type": "template",
+    "topic": "Distância e Colisão",
+    "chapter": 9
+  },
+  {
+    "id": "cap9d2",
+    "title": "Colete as moedas",
+    "description": "Controle o alienzinho para coletar moedas. Use as setas para controlar o alien.",
+    "thumbnail": "./thumbs/cap9d2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/aGpGKAxse",
+    "type": "activity",
     "topic": "Distância e Colisão",
     "chapter": 9
   },
@@ -560,16 +560,6 @@
     "chapter": 10
   },
   {
-    "id": "cap10d1",
-    "title": "Desafio 1: Jogo Gato e Rato (parte 1)",
-    "description": "Crie um jogo onde o rato deve desviar do gato e pegar o queijo. Use as teclas WASD para controlar o rato.",
-    "thumbnail": "./thumbs/cap10d1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/xmOIOS9l5r",
-    "type": "challenge",
-    "topic": "Objetos Literais (Dictionary)",
-    "chapter": 10
-  },
-  {
     "id": "cap10d1m",
     "title": "Modelo: Jogo Gato e Rato",
     "description": "Modelo do jogo Gato e Rato.",
@@ -577,6 +567,16 @@
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/-YPzRZJfK",
     "type": "template",
     "topic": "Distância e Colisão",
+    "chapter": 10
+  },
+  {
+    "id": "cap10d1",
+    "title": "Desafio 1: Jogo Gato e Rato (parte 1)",
+    "description": "Crie um jogo onde o rato deve desviar do gato e pegar o queijo. Use as teclas WASD para controlar o rato.",
+    "thumbnail": "./thumbs/cap10d1.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/xmOIOS9l5r",
+    "type": "challenge",
+    "topic": "Objetos Literais (Dictionary)",
     "chapter": 10
   },
   {
@@ -720,22 +720,22 @@
     "chapter": 11
   },
   {
-    "id": "cap12",
-    "title": "Jogo Bullet Hell",
-    "description": "Crie um jogo Bullet Hell. Seu objetivo é desviar e atirar nos inimigos. Setas/WASD: controla o jogador; Mouse: atira; DEL: ativa/desativa o modo Debug.",
-    "thumbnail": "./thumbs/cap12.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/FixQ4cdVT",
-    "type": "activity",
-    "topic": "Bullet Hell",
-    "chapter": 12
-  },
-  {
     "id": "cap12m",
     "title": "Modelo: Jogo Bullet Hell",
     "description": "Modelo do Jogo Bullet Hell",
     "thumbnail": "./thumbs/cap12.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/W8zG72hzD",
     "type": "template",
+    "topic": "Bullet Hell",
+    "chapter": 12
+  },
+  {
+    "id": "cap12",
+    "title": "Jogo Bullet Hell",
+    "description": "Crie um jogo Bullet Hell. Seu objetivo é desviar e atirar nos inimigos. Setas/WASD: controla o jogador; Mouse: atira; DEL: ativa/desativa o modo Debug.",
+    "thumbnail": "./thumbs/cap12.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/FixQ4cdVT",
+    "type": "activity",
     "topic": "Bullet Hell",
     "chapter": 12
   },
