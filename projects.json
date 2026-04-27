@@ -31,22 +31,32 @@
   },
   {
     "id": "cap2-1",
-    "title": "Linha de quadradinhos",
-    "description": "Desenhe uma linha de quadradinhos.",
+    "title": "Encontre o múltiplo de 10",
+    "description": "Usando o loop while até encontrar um múltiplo de 10.",
     "thumbnail": "./thumbs/cap2-1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/o0PR3OfXm",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/eLMboAgx1",
     "type": "activity",
-    "topic": "Loop For",
+    "topic": "Loops",
     "chapter": 2
   },
   {
     "id": "cap2-2",
+    "title": "Linha de quadradinhos",
+    "description": "Desenhe uma linha de quadradinhos.",
+    "thumbnail": "./thumbs/cap2-2.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/o0PR3OfXm",
+    "type": "activity",
+    "topic": "Loops",
+    "chapter": 2
+  },
+  {
+    "id": "cap2-3",
     "title": "Linha com tamanhos aleatórios",
     "description": "Desenhe uma linha de quadradinhos com tamanhos aleatórios.",
-    "thumbnail": "./thumbs/cap2-2.png",
+    "thumbnail": "./thumbs/cap2-3.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/2fN-ovZdJ",
     "type": "activity",
-    "topic": "Loop For",
+    "topic": "Loops",
     "chapter": 2
   },
   {
@@ -56,27 +66,27 @@
     "thumbnail": "./thumbs/cap2d1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/D-WLEAC-O",
     "type": "challenge",
-    "topic": "Loop For",
-    "chapter": 2
-  },
-  {
-    "id": "cap2-3",
-    "title": "Grade de quadradinhos",
-    "description": "Desenhe várias linhas de quadradinhos com tamanhos aleatórios.",
-    "thumbnail": "./thumbs/cap2-3.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/vi4Dn0tH1",
-    "type": "activity",
-    "topic": "Loop For",
+    "topic": "Loops",
     "chapter": 2
   },
   {
     "id": "cap2-4",
+    "title": "Grade de quadradinhos",
+    "description": "Desenhe várias linhas de quadradinhos com tamanhos aleatórios.",
+    "thumbnail": "./thumbs/cap2-4.png",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/vi4Dn0tH1",
+    "type": "activity",
+    "topic": "Loops",
+    "chapter": 2
+  },
+  {
+    "id": "cap2-5",
     "title": "Quadradinhos coloridos",
     "description": "Desenhe várias linhas de quadradinhos com tamanhos e cores aleatórias.",
-    "thumbnail": "./thumbs/cap2-4.png",
+    "thumbnail": "./thumbs/cap2-5.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/46sXOSqZx",
     "type": "activity",
-    "topic": "Loop For",
+    "topic": "Loops",
     "chapter": 2
   },
   {
@@ -86,7 +96,7 @@
     "thumbnail": "./thumbs/cap2d2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/4so4GfEx8",
     "type": "challenge",
-    "topic": "Loop For",
+    "topic": "Loops",
     "chapter": 2
   },
   {
