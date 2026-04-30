@@ -182,7 +182,7 @@
   {
     "id": "cap4-1",
     "title": "Sensores (Mira)",
-    "description": "Desenhe uma mira que acompanha o mouse. O traço fica mais grosso quando o mouse está pressionado.",
+    "description": "Desenhe uma mira que acompanha o mouse. O traço fica mais grosso quando o botão esquerdo do mouse está pressionado.",
     "thumbnail": "./thumbs/cap4-1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/X8k2D0cJS",
     "type": "activity",
@@ -192,7 +192,7 @@
   {
     "id": "cap4-2",
     "title": "Eventos: mousePressed() e mouseReleased()",
-    "description": "Crie um quadradinho que teleporta para a posição do mouse quando o botão é pressionado e troca de cor quando o botão é liberado.",
+    "description": "Crie um quadradinho que teleporta para a posição do mouse quando o botão é pressionado e troca de cor quando o botão é liberado. A rodinha do mouse aumenta e diminui o tamanho.",
     "thumbnail": "./thumbs/cap4-2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/RlvF6sM5r",
     "type": "activity",
