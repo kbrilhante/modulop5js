@@ -29,12 +29,32 @@
     "topic": "Comandos Básicos",
     "chapter": 1
   },
-    {
+  {
     "id": "cap1-2",
-    "title": "Variáveis",
+    "title": "Variáveis: Alvo",
     "description": "Desenhe um alvo usando variáveis.",
     "thumbnail": "./thumbs/cap1-2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/jbe-RW1kt",
+    "type": "activity",
+    "topic": "Comandos Básicos",
+    "chapter": 1
+  },
+  {
+    "id": "cap1-x",
+    "title": "",
+    "description": "",
+    "thumbnail": "./thumbs/cap1-x.png",
+    "viewUrl": "",
+    "type": "activity",
+    "topic": "Comandos Básicos",
+    "chapter": 1
+  },
+  {
+    "id": "cap1-x",
+    "title": "",
+    "description": "",
+    "thumbnail": "./thumbs/cap1-x.png",
+    "viewUrl": "",
     "type": "activity",
     "topic": "Comandos Básicos",
     "chapter": 1
