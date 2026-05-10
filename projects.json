@@ -33,7 +33,7 @@
     "id": "cap1-2",
     "title": "Variáveis",
     "description": "Desenhe um alvo usando variáveis.",
-    "thumbnail": "",
+    "thumbnail": "./thumbs/cap1-2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/jbe-RW1kt",
     "type": "activity",
     "topic": "Comandos Básicos",
