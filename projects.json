@@ -1,9 +1,9 @@
 [
   {
-    "id": "cap1",
+    "id": "cap1-1",
     "title": "Introdução",
     "description": "Comandos básicos do p5.",
-    "thumbnail": "./thumbs/cap1.png",
+    "thumbnail": "./thumbs/cap1-1.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/v4MVDgbHj",
     "type": "activity",
     "topic": "Comandos Básicos",
@@ -22,10 +22,20 @@
   {
     "id": "cap1d2",
     "title": "Desafio 2: Marque um X",
-    "description": "Desenhe o baú do tesour e marque um \"X\" bem em cima dele.",
+    "description": "Desenhe o baú do tesouro e marque um \"X\" bem em cima dele.",
     "thumbnail": "./thumbs/cap1d2.png",
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/RpeZ3KWO-",
     "type": "challenge",
+    "topic": "Comandos Básicos",
+    "chapter": 1
+  },
+    {
+    "id": "cap1-2",
+    "title": "Variáveis",
+    "description": "Desenhe um alvo usando variáveis.",
+    "thumbnail": "",
+    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/jbe-RW1kt",
+    "type": "activity",
     "topic": "Comandos Básicos",
     "chapter": 1
   },
