@@ -4,7 +4,7 @@
     "title": "Introdução",
     "description": "Comandos básicos do p5.",
     "thumbnail": "./thumbs/cap1-1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/v4MVDgbHj",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/ptO2AIYU8",
     "type": "activity",
     "topic": "Comandos Básicos",
     "chapter": 1
@@ -14,7 +14,7 @@
     "title": "Desafio 1: Ovo Frito",
     "description": "Desenhe um ovo frito!",
     "thumbnail": "./thumbs/cap1d1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/6WLE4cxZc",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/_d5XAWPfg",
     "type": "challenge",
     "topic": "Comandos Básicos",
     "chapter": 1
@@ -24,7 +24,7 @@
     "title": "Desafio 2: Marque um X",
     "description": "Desenhe o baú do tesouro e marque um \"X\" bem em cima dele.",
     "thumbnail": "./thumbs/cap1d2.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/RpeZ3KWO-",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/Js-nwBwSW",
     "type": "challenge",
     "topic": "Comandos Básicos",
     "chapter": 1
@@ -34,27 +34,37 @@
     "title": "Variáveis: Alvo",
     "description": "Desenhe um alvo usando variáveis.",
     "thumbnail": "./thumbs/cap1-2.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/jbe-RW1kt",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/Sv3n3zodw",
     "type": "activity",
     "topic": "Comandos Básicos",
     "chapter": 1
   },
   {
-    "id": "cap1-x",
-    "title": "",
-    "description": "",
-    "thumbnail": "./thumbs/cap1-x.png",
-    "viewUrl": "",
+    "id": "cap1-3",
+    "title": "Condicionais - Temperatura",
+    "description": "Crie uma constante para a temperatura. A paisagem muda de acordo com o valor dessa constante.",
+    "thumbnail": "./thumbs/cap1-3.gif",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/ACBP44z7e",
     "type": "activity",
     "topic": "Comandos Básicos",
     "chapter": 1
   },
   {
-    "id": "cap1-x",
-    "title": "",
-    "description": "",
-    "thumbnail": "./thumbs/cap1-x.png",
-    "viewUrl": "",
+    "id": "cap1-4",
+    "title": "Condicionais - Semáforo",
+    "description": "Use a contagem de frames para determinar as luzes do semáforo",
+    "thumbnail": "./thumbs/cap1-4.gif",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/VwA0AnBuU",
+    "type": "activity",
+    "topic": "Comandos Básicos",
+    "chapter": 1
+  },
+  {
+    "id": "cap1-5",
+    "title": "Funções - Radar",
+    "description": "Usando funções, crie um radar que controla a sua espaçonave",
+    "thumbnail": "./thumbs/cap1-5.png",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/BJupj7y6n",
     "type": "activity",
     "topic": "Comandos Básicos",
     "chapter": 1
@@ -64,7 +74,7 @@
     "title": "Encontre o múltiplo de 10",
     "description": "Usando o loop while até encontrar um múltiplo de 10.",
     "thumbnail": "./thumbs/cap2-1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/eLMboAgx1",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/vMJIGfxOw",
     "type": "activity",
     "topic": "Loops",
     "chapter": 2
@@ -74,7 +84,7 @@
     "title": "Linha de quadradinhos",
     "description": "Desenhe uma linha de quadradinhos.",
     "thumbnail": "./thumbs/cap2-2.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/o0PR3OfXm",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/zy0OwYHxX",
     "type": "activity",
     "topic": "Loops",
     "chapter": 2
@@ -84,7 +94,7 @@
     "title": "Linha com tamanhos aleatórios",
     "description": "Desenhe uma linha de quadradinhos com tamanhos aleatórios.",
     "thumbnail": "./thumbs/cap2-3.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/2fN-ovZdJ",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/vfuTtmFHd",
     "type": "activity",
     "topic": "Loops",
     "chapter": 2
@@ -94,7 +104,7 @@
     "title": "Desafio 1: Tinta escorrendo",
     "description": "Desenhe uma sequência de linhas que parecem gotas de tinta escorrendo.",
     "thumbnail": "./thumbs/cap2d1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/D-WLEAC-O",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/hDJi1ZUaB",
     "type": "challenge",
     "topic": "Loops",
     "chapter": 2
@@ -104,7 +114,7 @@
     "title": "Grade de quadradinhos",
     "description": "Desenhe várias linhas de quadradinhos com tamanhos aleatórios.",
     "thumbnail": "./thumbs/cap2-4.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/vi4Dn0tH1",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/LY3OIzk2i",
     "type": "activity",
     "topic": "Loops",
     "chapter": 2
@@ -114,7 +124,7 @@
     "title": "Quadradinhos coloridos",
     "description": "Desenhe várias linhas de quadradinhos com tamanhos e cores aleatórias.",
     "thumbnail": "./thumbs/cap2-5.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/46sXOSqZx",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/PrijYvWa3",
     "type": "activity",
     "topic": "Loops",
     "chapter": 2
@@ -124,7 +134,7 @@
     "title": "Desafio 2: Céu estrelado",
     "description": "Desenhe uma pixel art de céu estrelado.",
     "thumbnail": "./thumbs/cap2d2.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/4so4GfEx8",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/6Wk6cHDbk",
     "type": "challenge",
     "topic": "Loops",
     "chapter": 2
@@ -134,7 +144,7 @@
     "title": "Jitter",
     "description": "Crie uma bolinha que treme com movimentos aleatórios.",
     "thumbnail": "./thumbs/cap3-1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/NHNM5ItWA",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/blkAGEHuJ",
     "type": "activity",
     "topic": "Movimento",
     "chapter": 3
@@ -144,7 +154,7 @@
     "title": "Jitter com constrain",
     "description": "Crie uma bolinha que treme com movimentos aleatórios, mas agora ela fica restrita dentro dos limites da tela.",
     "thumbnail": "./thumbs/cap3-1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/XyJ8Ozlsh",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/BiyBolKKD",
     "type": "activity",
     "topic": "Movimento",
     "chapter": 3
@@ -154,7 +164,7 @@
     "title": "Jitter com constrain e parede",
     "description": "Crie uma bolinha que treme com movimentos aleatórios, mas agora ela fica restrita dentro dos limites das paredes.",
     "thumbnail": "./thumbs/cap3-3.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/jQ3ohLW1Q",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/oIEuySH-n",
     "type": "activity",
     "topic": "Movimento",
     "chapter": 3
@@ -164,7 +174,7 @@
     "title": "Movimento linear",
     "description": "Crie uma bolinha que se movimenta em linha reta e aparece do outro lado quando sai da tela.",
     "thumbnail": "./thumbs/cap3-1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/CMUa2ooHo",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/QIi0PXVdu",
     "type": "activity",
     "topic": "Movimento",
     "chapter": 3
@@ -174,7 +184,7 @@
     "title": "Desafio 1: Chuvisco",
     "description": "Crie uma gota de chuva que cai do topo da tela e se desfaz ao tocar o chão.",
     "thumbnail": "./thumbs/cap3d1.gif",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/F_sXKiOYw",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/IfzfZHeEL",
     "type": "challenge",
     "topic": "Movimento",
     "chapter": 3
@@ -184,7 +194,7 @@
     "title": "Movimento com bounce",
     "description": "Crie uma bolinha que se movimenta em linha reta e rebate quando toca na borda da tela.",
     "thumbnail": "./thumbs/cap3-1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/hH5j53oye",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/Gnw--OHhB",
     "type": "activity",
     "topic": "Movimento",
     "chapter": 3
@@ -194,7 +204,7 @@
     "title": "Movimento com velocidade aleatória",
     "description": "Crie uma bolinha que se movimenta em linha reta e rebate quando toca na borda da tela. A sua velocidade e trajetória são aleatórias.",
     "thumbnail": "./thumbs/cap3-1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/AVlP27NvG",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/KzvIVKzuv",
     "type": "activity",
     "topic": "Movimento",
     "chapter": 3
@@ -204,7 +214,7 @@
     "title": "Desafio 2: Bolinha Furiosa",
     "description": "Crie uma bolinha que, toda vez que toca a parede, muda de cor e aumenta a velocidade, mas sem ultrapassar um limite máximo.",
     "thumbnail": "./thumbs/cap3d2.gif",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/bj1IX6-D4",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/WTgi_OlFe",
     "type": "challenge",
     "topic": "Movimento",
     "chapter": 3
@@ -214,7 +224,7 @@
     "title": "Sensores (Mira)",
     "description": "Desenhe uma mira que acompanha o mouse. O traço fica mais grosso quando o botão esquerdo do mouse está pressionado.",
     "thumbnail": "./thumbs/cap4-1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/X8k2D0cJS",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/YmvGgziL_",
     "type": "activity",
     "topic": "Sensores e Eventos de Mouse",
     "chapter": 4
@@ -224,7 +234,7 @@
     "title": "Eventos: mousePressed() e mouseReleased()",
     "description": "Crie um quadradinho que teleporta para a posição do mouse quando o botão é pressionado e troca de cor quando o botão é liberado. A rodinha do mouse aumenta e diminui o tamanho.",
     "thumbnail": "./thumbs/cap4-2.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/RlvF6sM5r",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/Q7ILwvwZZ",
     "type": "activity",
     "topic": "Sensores e Eventos de Mouse",
     "chapter": 4
@@ -234,7 +244,7 @@
     "title": "Eventos: mouseMoved() e mouseDragged()",
     "description": "Crie uma trilha de pontos que segue o mouse quando ele é movido ou arrastado. A trilha fica mais discreta quando o mouse é movido e colorida quando é arrastado.",
     "thumbnail": "./thumbs/cap4-3.gif",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/axBMlquDS",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/62_tKyfFH",
     "type": "activity",
     "topic": "Sensores e Eventos de Mouse",
     "chapter": 4
@@ -244,7 +254,7 @@
     "title": "Desafio: Carimbo de Emoji",
     "description": "Crie um carimbo utilizando emojis.",
     "thumbnail": "./thumbs/cap4d1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/P17Zl6Lnf",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/ErrkM-xGo",
     "type": "challenge",
     "topic": "Sensores e Eventos de Mouse",
     "chapter": 4
@@ -254,7 +264,7 @@
     "title": "keyIsPressed",
     "description": "Troque a cor do quadrado enquanto qualquer tecla estiver pressionada.",
     "thumbnail": "./thumbs/cap5.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/QI7MB-fLI",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/OQVvCLje3",
     "type": "activity",
     "topic": "Sensores e Eventos de Teclado",
     "chapter": 5
@@ -264,7 +274,7 @@
     "title": "keyIsDown()",
     "description": "Troque a cor do quadrado enquanto a tecla ENTER estiver pressionada.",
     "thumbnail": "./thumbs/cap5.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/OaIxy3IM2",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/D6-DoodM6",
     "type": "activity",
     "topic": "Sensores e Eventos de Teclado",
     "chapter": 5
@@ -274,7 +284,7 @@
     "title": "keyPressed()",
     "description": "Troque a cor do quadrado quando qualquer tecla for pressionada.",
     "thumbnail": "./thumbs/cap5.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/whCKK_hRr",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/LuGYE83hg",
     "type": "activity",
     "topic": "Sensores e Eventos de Teclado",
     "chapter": 5
@@ -284,7 +294,7 @@
     "title": "keyReleased()",
     "description": "Troque a cor do quadrado quando qualquer tecla for liberada.",
     "thumbnail": "./thumbs/cap5.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/y4xlRDQ7C",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/GyyUSZpBb",
     "type": "activity",
     "topic": "Sensores e Eventos de Teclado",
     "chapter": 5
@@ -294,7 +304,7 @@
     "title": "Variável key",
     "description": "Troque a cor do quadrado quando a tecla \"x\" for pressionada.",
     "thumbnail": "./thumbs/cap5.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/TqVSiak49",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/RQ4SgTifC",
     "type": "activity",
     "topic": "Sensores e Eventos de Teclado",
     "chapter": 5
@@ -304,7 +314,7 @@
     "title": "Variável keyCode",
     "description": "Troque a cor do quadrado quando a tecla \"x\" for pressionada.",
     "thumbnail": "./thumbs/cap5.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/LTYmcNz0H",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/eKlYu1_wX",
     "type": "activity",
     "topic": "Sensores e Eventos de Teclado",
     "chapter": 5
@@ -314,7 +324,7 @@
     "title": "Desafio: Controle o quadradinho",
     "description": "Crie um quadradinho que se movimenta de acordo com a tecla pressionada. Espaço muda a cor do quadradinho. + e - alteram o tamanho do quadradinho.",
     "thumbnail": "./thumbs/cap5d.gif",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/xHbhPjUMm",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/u0pT2G9w8",
     "type": "challenge",
     "topic": "Sensores e Eventos de Teclado",
     "chapter": 5
@@ -324,7 +334,7 @@
     "title": "Desenho na Tela (parte 1)",
     "description": "Crie um aplicativo de desenho estilo paint. Vamos aplicar um pincel, uma borracha e limpar a tela.",
     "thumbnail": "./thumbs/cap6.gif",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/00ON3aKj2",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/-VguBGqqc",
     "type": "activity",
     "topic": "Desenho na Tela",
     "chapter": 6
@@ -334,7 +344,7 @@
     "title": "Array estático",
     "description": "Introdução a arrays.",
     "thumbnail": "./thumbs/cap7-1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/rEeLpCWN9",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/wMdwybhIY",
     "type": "activity",
     "topic": "Arrays",
     "chapter": 7
@@ -344,7 +354,7 @@
     "title": "Array com Loop",
     "description": "Usando o loop for para percorrer os elementos de um array.",
     "thumbnail": "./thumbs/cap7-1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/1H7IryuJK",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/PwvFQEp9Z",
     "type": "activity",
     "topic": "Arrays",
     "chapter": 7
@@ -354,7 +364,7 @@
     "title": "Corrida 1",
     "description": "Vamos fazer as bolinhas disputarem uma corrida, criando mais um array para gerenciar a posição X.",
     "thumbnail": "./thumbs/cap7-3.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/SNnvkgg2K",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/p9zFJQIMN",
     "type": "activity",
     "topic": "Arrays",
     "chapter": 7
@@ -364,7 +374,7 @@
     "title": "Corrida 2",
     "description": "Vamos fazer com que possamos adicionar tantos \"competidores\" quanto quisermos.",
     "thumbnail": "./thumbs/cap7-4.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/Oxv7RD4oC",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/JRF-MSep6",
     "type": "activity",
     "topic": "Arrays",
     "chapter": 7
@@ -374,7 +384,7 @@
     "title": "Desafio 1: Super Corrida",
     "description": "Melhore a atividade de corrida de modo que cada competidor tenha um número. Crie uma linha de chegada e informe ao usuário quem é o vencedor da corrida.",
     "thumbnail": "./thumbs/cap7d1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/ANqkdc3uQ",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/Ssgox_3PM",
     "type": "challenge",
     "topic": "Arrays",
     "chapter": 7
@@ -384,7 +394,7 @@
     "title": "Pilha",
     "description": "Apresentando o conceito de pilha (LIFO). Seta para cima: insere na pilha. Seta para baixo: remove da pilha.",
     "thumbnail": "./thumbs/cap7-5.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/t-Qd5qTfN",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/Te9Y-vO96",
     "type": "activity",
     "topic": "Arrays",
     "chapter": 7
@@ -394,7 +404,7 @@
     "title": "Fila",
     "description": "Apresentando o conceito de fila (FIFO). ENTER: insere na fila. DELETE: remove da fila.",
     "thumbnail": "./thumbs/cap7-6.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/OzaWmblBx",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/B7O_qTq4H",
     "type": "activity",
     "topic": "Arrays",
     "chapter": 7
@@ -404,7 +414,7 @@
     "title": "Fila Dupla",
     "description": "Apresentando o conceito de fila dupla. Seta para esquerda: insere à esquerda. Seta para direita: insere à direita. Tecla A: remove à esquerda. Tecla D: remove à direita.",
     "thumbnail": "./thumbs/cap7-7.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/S9oKRsJ3q",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/griCmbBnI",
     "type": "activity",
     "topic": "Arrays",
     "chapter": 7
@@ -414,7 +424,7 @@
     "title": "Desafio 2: Trilha de bolinhas",
     "description": "Crie uma bolinha onde o mouse for clicado. Após uma determinada quantidade de bolinhas, você deve apagar a bolinha mais antiga.",
     "thumbnail": "./thumbs/cap7d2.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/rojwdFP8I",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/DPG3p6MEj",
     "type": "challenge",
     "topic": "Arrays",
     "chapter": 7
@@ -424,7 +434,7 @@
     "title": "Modelo: Ibagens",
     "description": "Atividades de aula com ibagens.",
     "thumbnail": "./thumbs/cap8-1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/VzGF7FQ5X",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/hpkXgMqml",
     "type": "template",
     "topic": "Ibagens",
     "chapter": 8
@@ -434,7 +444,7 @@
     "title": "Função preload()",
     "description": "Demonstração da função preload e a diferença dela para a setup.",
     "thumbnail": "./thumbs/cap8-1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/siqpkKWXd",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/KKFdS0RjB",
     "type": "activity",
     "topic": "Ibagens",
     "chapter": 8
@@ -444,7 +454,7 @@
     "title": "Propriedades das ibagens",
     "description": "Demonstração das propriedades width e height e como utilizá-las no código.",
     "thumbnail": "./thumbs/cap8-2.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/UEaYHDb3O",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/exPk-4AtI",
     "type": "activity",
     "topic": "Ibagens",
     "chapter": 8
@@ -454,7 +464,7 @@
     "title": "Ibagens em array",
     "description": "Demonstração de organização de várias ibagens em um array. Pressione ENTER para trocar de frame.",
     "thumbnail": "./thumbs/cap8-3.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/LLtS85tKF",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/pc8djppHg",
     "type": "activity",
     "topic": "Ibagens",
     "chapter": 8
@@ -464,7 +474,7 @@
     "title": "Animação",
     "description": "Demonstração de uma animação com frame delay.",
     "thumbnail": "./thumbs/cap8-3.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/BeX8PkOA1",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/rVkGdOHyF",
     "type": "activity",
     "topic": "Ibagens",
     "chapter": 8
@@ -473,8 +483,8 @@
     "id": "cap8d1m",
     "title": "Modelo: Patinho Correndo",
     "description": "Controle a animação com o mouse.",
-    "thumbnail": "./thumbs/cap8d.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/lqKA2QE-1",
+    "thumbnail": "./thumbs/cap8d1.png",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/6QtHG5tkr",
     "type": "template",
     "topic": "Ibagens",
     "chapter": 8
@@ -483,39 +493,69 @@
     "id": "cap8d1",
     "title": "Desafio: Patinho Correndo",
     "description": "Controle a animação com o mouse.",
-    "thumbnail": "./thumbs/cap8d.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/LM9hrSdtk",
+    "thumbnail": "./thumbs/cap8d1.png",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/U-I6ZbqrH",
     "type": "challenge",
     "topic": "Ibagens",
     "chapter": 8
   },
   {
-    "id": "cap9-1",
+    "id": "cap8d2m",
+    "title": "Modelo: Fadinha",
+    "description": "",
+    "thumbnail": "./thumbs/cap8d2.png",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/eW1w7Zj0c",
+    "type": "template",
+    "topic": "Ibagens",
+    "chapter": 8
+  },
+  {
+    "id": "cap8d2",
+    "title": "Desafio: Fadinha",
+    "description": "",
+    "thumbnail": "./thumbs/cap8d2.png",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/e8WI87O0o",
+    "type": "challenge",
+    "topic": "Ibagens",
+    "chapter": 8
+  },
+  {
+    "id": "cap9-a",
     "title": "Distância",
     "description": "Demonstração da função dist().",
     "thumbnail": "./thumbs/cap9-1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/6soeVbWeP",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/b0n13mZLy",
+    "type": "demo",
+    "topic": "Distância e Colisão",
+    "chapter": 9
+  },
+  {
+    "id": "cap9-1",
+    "title": "Evento de distância",
+    "description": "Muda a cor do círculo quando o mouse está sobre ele.",
+    "thumbnail": "./thumbs/cap9-2.png",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/Bpi8zjWk1",
     "type": "activity",
     "topic": "Distância e Colisão",
     "chapter": 9
   },
   {
     "id": "cap9-2",
-    "title": "Evento de distância",
-    "description": "Muda a cor do círculo quando o mouse está sobre ele.",
+    "title": "Clique dentro de um alcance",
+    "description": "A cor do círculo só muda se o mouse estiver pressionado e dentro do círculo.",
     "thumbnail": "./thumbs/cap9-2.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/WvSVSbUV5",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/_mS03Op2G",
     "type": "activity",
     "topic": "Distância e Colisão",
     "chapter": 9
   },
   {
-    "id": "cap9-3",
-    "title": "Clique dentro de um alcance",
-    "description": "A cor do círculo só muda se o mouse estiver pressionado e dentro do círculo.",
-    "thumbnail": "./thumbs/cap9-2.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/jOZL3xyZn",
-    "type": "activity",
+    "id": "cap9d1m",
+    "title": "Modelo: Troca emoji",
+    "description": "Modelo do troca Emoji.",
+    "thumbnail": "./thumbs/cap9d1.png",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/lrVVy_KrP",
+    "type": "template",
     "topic": "Distância e Colisão",
     "chapter": 9
   },
@@ -524,27 +564,27 @@
     "title": "Desafio 1: Troca emoji",
     "description": "Troque a imagem do emoji quando estiver clicando sobre ele.",
     "thumbnail": "./thumbs/cap9d1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/BRN-HE643",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/s-0TwUZ7Q",
     "type": "challenge",
     "topic": "Distância e Colisão",
     "chapter": 9
   },
   {
-    "id": "cap9-a",
+    "id": "cap9-b",
     "title": "Sobreposição",
     "description": "Demonstração de sobreposição.",
     "thumbnail": "./thumbs/cap9-a.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/7Y1-8qj_U",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/VdTA6a36H",
     "type": "demo",
     "topic": "Distância e Colisão",
     "chapter": 9
   },
   {
-    "id": "cap9-4",
+    "id": "cap9-3",
     "title": "Colisão por distância",
     "description": "Demonstração de colisão de dois círculos.",
     "thumbnail": "./thumbs/cap9-4.gif",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/NVUrKIOq6",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/W_FVjdP3L",
     "type": "activity",
     "topic": "Distância e Colisão",
     "chapter": 9
@@ -554,7 +594,7 @@
     "title": "Modelo: Colete as moedas",
     "description": "Modelo do projeto Colete as Moedas",
     "thumbnail": "./thumbs/cap9d2.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/x8Ed2qxQ8",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/zNH0TjZnv",
     "type": "template",
     "topic": "Distância e Colisão",
     "chapter": 9
@@ -564,7 +604,7 @@
     "title": "Colete as moedas",
     "description": "Controle o alienzinho para coletar moedas. Use as setas para controlar o alien.",
     "thumbnail": "./thumbs/cap9d2.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/aGpGKAxse",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/zHmJrjgBk",
     "type": "activity",
     "topic": "Distância e Colisão",
     "chapter": 9
@@ -574,7 +614,7 @@
     "title": "Objeto (dictionary)",
     "description": "Crie um objeto bolinha com todas as suas propriedades.",
     "thumbnail": "./thumbs/cap10-1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/fB4lu3JbN",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/LbgaKfmsf",
     "type": "activity",
     "topic": "Objetos Literais (Dictionary)",
     "chapter": 10
@@ -584,7 +624,7 @@
     "title": "Duas bolinhas",
     "description": "Use objetos para gerenciar duas bolinhas com propriedades independentes.",
     "thumbnail": "./thumbs/cap10-2.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/9Itks0O3d",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/IxXyawtJ-",
     "type": "activity",
     "topic": "Objetos Literais (Dictionary)",
     "chapter": 10
@@ -594,7 +634,7 @@
     "title": "Duas bolinhas com colisão",
     "description": "Use objetos para gerenciar as duas bolinhas e crie a função isTouching(a, b).",
     "thumbnail": "./thumbs/cap10-2.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/NumheWUe1",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/P5lxP6H2K",
     "type": "activity",
     "topic": "Objetos Literais (Dictionary)",
     "chapter": 10
@@ -604,7 +644,7 @@
     "title": "Modelo: Jogo Gato e Rato",
     "description": "Modelo do jogo Gato e Rato.",
     "thumbnail": "./thumbs/cap10d1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/-YPzRZJfK",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/cpnNqprgJ",
     "type": "template",
     "topic": "Distância e Colisão",
     "chapter": 10
@@ -614,7 +654,7 @@
     "title": "Desafio 1: Jogo Gato e Rato (parte 1)",
     "description": "Crie um jogo onde o rato deve desviar do gato e pegar o queijo. Use as teclas WASD para controlar o rato.",
     "thumbnail": "./thumbs/cap10d1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/xmOIOS9l5r",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/JjSZ8o9Z3",
     "type": "challenge",
     "topic": "Objetos Literais (Dictionary)",
     "chapter": 10
@@ -624,7 +664,7 @@
     "title": "Empurrar a bolinha",
     "description": "Crie uma animação onde uma bolinha controlada pelo usuário consegue empurrar outra bolinha. Elas não podem ultrapassar uma barreira estabelecida nem se sobrepor. Aperte ESPAÇO para reiniciar as bolinhas.",
     "thumbnail": "./thumbs/cap10-4.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/VWRTS6SkA",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/pDIy7vH8Y",
     "type": "challenge",
     "topic": "Objetos Literais (Dictionary)",
     "chapter": 10
@@ -634,8 +674,18 @@
     "title": "Confeti",
     "description": "Crie um array que armazena uma nova bolinha a cada intervalo de tempo. Quando DELETE é pressionado, uma bolinha aleatória é apagada.",
     "thumbnail": "./thumbs/cap10-5.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/wnwahK_wm",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/kfLiBRdCK",
     "type": "activity",
+    "topic": "Objetos Literais (Dictionary)",
+    "chapter": 10
+  },
+  {
+    "id": "cap10d2m",
+    "title": "Modelo: Bolhas",
+    "description": "Modelo da atividade Bolhas",
+    "thumbnail": "./thumbs/cap10d2.png",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/mSSuiGHZs",
+    "type": "template",
     "topic": "Objetos Literais (Dictionary)",
     "chapter": 10
   },
@@ -644,7 +694,7 @@
     "title": "Desafio 2: Bolhas",
     "description": "Crie várias bolhas que surgem da parte inferior da tela a cada intervalo de tempo. Bolhas também são criadas quando clicamos na tela. Quando tocam o topo da tela, as bolhas estouram.",
     "thumbnail": "./thumbs/cap10d2.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/DJBCv5YIA",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/TSLWCvsXT",
     "type": "challenge",
     "topic": "Objetos Literais (Dictionary)",
     "chapter": 10
@@ -654,7 +704,7 @@
     "title": "Conceito de Seno e Cosseno",
     "description": "Demonstração de seno e cosseno. Barra de espaço: liga/desliga o ângulo. 0: 0°; 1: 30°; 2: 45°; 3: 60°; 4: 90°; 5: 180°; 6: 270°; 7: -90°; 8: -45°; 9: angulo aleatório -180° - 360°.",
     "thumbnail": "./thumbs/cap11-a.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/knzCfd59b",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/Vt0TpqGo0",
     "type": "demo",
     "topic": "Trigonometria",
     "chapter": 11
@@ -664,7 +714,7 @@
     "title": "Translate",
     "description": "Crie uma espécie de mira na posição 0,0. Essa posição deve atualizar de acordo com mouseX e mouseY",
     "thumbnail": "./thumbs/cap11-1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/kz4QiapWZ",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/hQvIf0Mxj",
     "type": "activity",
     "topic": "Trigonometria",
     "chapter": 11
@@ -674,7 +724,7 @@
     "title": "Movimento Circular",
     "description": "Define um movimento circular para a bolinha. Seta para cima: empurra no sentido horário. Seta para baixo: empurra no sentido anti-horário.",
     "thumbnail": "./thumbs/cap11-2.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/fpukZ6CAu",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/LxGhleTgV",
     "type": "activity",
     "topic": "Trigonometria",
     "chapter": 11
@@ -684,7 +734,7 @@
     "title": "Sistema Solar",
     "description": "Crie um modelo do sistema solar em escala aproximada.",
     "thumbnail": "./thumbs/cap11-3.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/Y7ldz8YoX",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/FXe8xuHAq",
     "type": "activity",
     "topic": "Trigonometria",
     "chapter": 11
@@ -694,7 +744,7 @@
     "title": "Relógio",
     "description": "Construa um relógio analógico.",
     "thumbnail": "./thumbs/cap11-4.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/StW2sInk2",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/t07vmzk_Y",
     "type": "activity",
     "topic": "Trigonometria",
     "chapter": 11
@@ -704,7 +754,7 @@
     "title": "Desafio 1: Dia e Noite",
     "description": "Desenhe o Sol e a Lua e faça o céu mudar de cor conforme os astros rotacionam.",
     "thumbnail": "./thumbs/cap11d1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/pVXHfva8w",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/F194CQDol",
     "type": "challenge",
     "topic": "Trigonometria",
     "chapter": 11
@@ -714,7 +764,7 @@
     "title": "Rework: Jogo Gato e Rato (final)",
     "description": "Reescreva o jogo do Gato e Rato de modo que o a velocidade e trajetória do gato sejam mais precisas.",
     "thumbnail": "./thumbs/cap10d1.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/4J2VOLunC",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/2XGgQCdeT",
     "type": "rework",
     "topic": "Trigonometria",
     "chapter": 11
@@ -724,7 +774,7 @@
     "title": "Conceito de Arco Tangente",
     "description": "Demonstração arco tangente. Determina o ângulo a partir da mosição do mouse em relação ao centro.",
     "thumbnail": "./thumbs/cap11-a.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/ryY96RDw5",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/kkWuA7MFw",
     "type": "demo",
     "topic": "Trigonometria",
     "chapter": 11
@@ -734,7 +784,7 @@
     "title": "Bolinha com Lançamento",
     "description": "Crie uma bolinha que pode ter sua direção e trajetória definidas pelo usuário.",
     "thumbnail": "./thumbs/cap11-5.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/7BhRVDcT4",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/LDrldeuYP",
     "type": "activity",
     "topic": "Trigonometria",
     "chapter": 11
@@ -744,7 +794,7 @@
     "title": "Colisão de Bolinhas",
     "description": "Crie duas bolinhas que rebatem em direções opostas quando colidem.",
     "thumbnail": "./thumbs/cap11-6.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/WAmaPNlz8",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/HT3OR_uOa",
     "type": "activity",
     "topic": "Trigonometria",
     "chapter": 11
@@ -754,7 +804,7 @@
     "title": "Desafio 2: Perseguição",
     "description": "Faça o seu personagem fugir dos inimigos usando as setas do teclado.",
     "thumbnail": "./thumbs/cap11d2.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/tNmc0h_TE",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/GazDblrXx",
     "type": "challenge",
     "topic": "Trigonometria",
     "chapter": 11
@@ -764,7 +814,7 @@
     "title": "Modelo: Jogo Bullet Hell",
     "description": "Modelo do Jogo Bullet Hell",
     "thumbnail": "./thumbs/cap12.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/W8zG72hzD",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/gVaGWN16a",
     "type": "template",
     "topic": "Bullet Hell",
     "chapter": 12
@@ -774,7 +824,7 @@
     "title": "Jogo Bullet Hell",
     "description": "Crie um jogo Bullet Hell. Seu objetivo é desviar e atirar nos inimigos. Setas/WASD: controla o jogador; Mouse: atira; DEL: ativa/desativa o modo Debug.",
     "thumbnail": "./thumbs/cap12.png",
-    "viewUrl": "https://editor.p5js.org/codigosDaKah/full/FixQ4cdVT",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/vMyrs1r83",
     "type": "activity",
     "topic": "Bullet Hell",
     "chapter": 12
