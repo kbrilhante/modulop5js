@@ -830,6 +830,46 @@
     "chapter": 12
   },
   {
+    "id": "cap13-1",
+    "title": "Mouse Dentro do Retângulo",
+    "description": "Faça o retângulo mudar de cor quando o mouse está sobre ele.",
+    "thumbnail": "./thumbs/cap13-1.png",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/rw-W0wpZA",
+    "type": "activity",
+    "topic": "Colisão de Área",
+    "chapter": 13
+  },
+  {
+    "id": "cap13-2",
+    "title": "Retângulo Clicado",
+    "description": "Faça o retângulo mudar de cor quando ele é clicado.",
+    "thumbnail": "./thumbs/cap13-1.png",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/A6ABMcOPV",
+    "type": "activity",
+    "topic": "Colisão de Área",
+    "chapter": 13
+  },
+  {
+    "id": "cap13d1",
+    "title": "",
+    "description": "",
+    "thumbnail": "./thumbs/cap13d1.png",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/QQeV5RfC_",
+    "type": "challenge",
+    "topic": "Colisão de Área",
+    "chapter": 13
+  },
+  {
+    "id": "cap13-x",
+    "title": "",
+    "description": "",
+    "thumbnail": "",
+    "viewUrl": "",
+    "type": "activity",
+    "topic": "Colisão de Área",
+    "chapter": 13
+  },
+  {
     "id": "",
     "title": "Rotate",
     "description": "Crie um triângulo que rotaciona na tela.",
