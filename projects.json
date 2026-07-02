@@ -851,11 +851,21 @@
   },
   {
     "id": "cap13d1",
-    "title": "",
-    "description": "",
+    "title": "Pegadinha",
+    "description": "Quando o usuário tenta posicionar o mouse em Ganhar o botão muda de lugar. Quando clica em Perder, os botões desaparecem e uma mensagem aparece na tela.",
     "thumbnail": "./thumbs/cap13d1.png",
     "viewUrl": "https://editor.p5js.org/ProfeKah/full/QQeV5RfC_",
     "type": "challenge",
+    "topic": "Colisão de Área",
+    "chapter": 13
+  },
+  {
+    "id": "cap13-a",
+    "title": "Limites da Colisão de Área com Dois Retângulos",
+    "description": "Pressione as teclas WASD para controlar os limites da colisão. Arraste o retângulo menor para controlá-lo.",
+    "thumbnail": "./thumbs/cap13-a.png",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/rJEaXyUc-",
+    "type": "demo",
     "topic": "Colisão de Área",
     "chapter": 13
   },
