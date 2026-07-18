@@ -482,7 +482,7 @@
   {
     "id": "cap8d1m",
     "title": "Modelo: Patinho Correndo",
-    "description": "Controle a animação com o mouse.",
+    "description": "Modelo da atividade Patinho Correndo.",
     "thumbnail": "./thumbs/cap8d1.png",
     "viewUrl": "https://editor.p5js.org/ProfeKah/full/6QtHG5tkr",
     "type": "template",
@@ -502,7 +502,7 @@
   {
     "id": "cap8d2m",
     "title": "Modelo: Fadinha",
-    "description": "",
+    "description": "Modelo da atividade Fadinha",
     "thumbnail": "./thumbs/cap8d2.png",
     "viewUrl": "https://editor.p5js.org/ProfeKah/full/eW1w7Zj0c",
     "type": "template",
@@ -512,7 +512,7 @@
   {
     "id": "cap8d2",
     "title": "Desafio: Fadinha",
-    "description": "",
+    "description": "Faça a fadinha desenhar estrelinhas no céu. A animação da fada se alterna quando ela voa e quando clicamos na tela. As estrelinhas são criadas aleatoriamente.",
     "thumbnail": "./thumbs/cap8d2.png",
     "viewUrl": "https://editor.p5js.org/ProfeKah/full/e8WI87O0o",
     "type": "challenge",
@@ -850,10 +850,30 @@
     "chapter": 13
   },
   {
+    "id": "cap13m1",
+    "title": "Modelo: Troca Emoji Quadradinho",
+    "description": "Modelo da atividade Troca Emoji Quadradinho",
+    "thumbnail": "./thumbs/cap13d1.gif",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/rZnmiEVgg",
+    "type": "template",
+    "topic": "Colisão de Área",
+    "chapter": 13
+  },
+  {
     "id": "cap13d1",
-    "title": "Pegadinha",
+    "title": "Desafio 1: Troca Emoji Quadradinho",
+    "description": "Cada vez que o Emoji é clicado, o emoji se alterna.",
+    "thumbnail": "./thumbs/cap13d1.gif",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/UB973pm6S",
+    "type": "challenge",
+    "topic": "Colisão de Área",
+    "chapter": 13
+  },
+  {
+    "id": "cap13d2",
+    "title": "Desafio 2: Pegadinha",
     "description": "Quando o usuário tenta posicionar o mouse em Ganhar o botão muda de lugar. Quando clica em Perder, os botões desaparecem e uma mensagem aparece na tela.",
-    "thumbnail": "./thumbs/cap13d1.png",
+    "thumbnail": "./thumbs/cap13d2.png",
     "viewUrl": "https://editor.p5js.org/ProfeKah/full/QQeV5RfC_",
     "type": "challenge",
     "topic": "Colisão de Área",
