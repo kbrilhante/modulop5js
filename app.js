@@ -157,6 +157,8 @@ function buildTypeLabel(type) {
       return "Rework";
     case "template":
       return "Modelo";
+    case "extra":
+      return "Extra";
     default:
       return "Tipo desconhecido";
   }

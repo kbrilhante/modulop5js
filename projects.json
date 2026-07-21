@@ -894,6 +894,16 @@
     "title": "",
     "description": "",
     "thumbnail": "",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/Sc5rPlow2",
+    "type": "activity",
+    "topic": "Colisão de Área",
+    "chapter": 13
+  },
+  {
+    "id": "cap13-x",
+    "title": "",
+    "description": "",
+    "thumbnail": "",
     "viewUrl": "",
     "type": "activity",
     "topic": "Colisão de Área",
@@ -937,6 +947,26 @@
     "viewUrl": "https://editor.p5js.org/codigosDaKah/full/X5R2likUV",
     "type": "",
     "topic": "",
+    "chapter": 0
+  },
+  {
+    "id": "fonts",
+    "title": "Fonts List",
+    "description": "Lista as fontes padrão do sistema",
+    "thumbnail": "./thumbs/fonts.png",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/WWsKeQCn-",
+    "type": "extra",
+    "topic": "Material de Apoio",
+    "chapter": 0
+  },
+  {
+    "id": "maze",
+    "title": "Maze Generator",
+    "description": "Gera um labirinto automaticamente usando DFS",
+    "thumbnail": "./thumbs/maze.png",
+    "viewUrl": "https://editor.p5js.org/ProfeKah/full/Z8ruAkCfd",
+    "type": "extra",
+    "topic": "Material de Apoio",
     "chapter": 0
   }
 ]
